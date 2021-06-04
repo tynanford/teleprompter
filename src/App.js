@@ -16,7 +16,10 @@ function App() {
   // boolean to either play lyrics or not
   const [playLyrics, setPlayLyrics] = useState(false);
 
+  const [speedAdjustment, setSpeedAdjustment] = useState(0);
+
   const getData=()=>{
+
     fetch('songs.json', {
       headers : { 
         'Content-Type': 'application/json',
@@ -33,7 +36,6 @@ function App() {
           tempSongList.push(key);
         }
         setSongTitleList(tempSongList);
-        console.log(myJson);
       });
   }
 
@@ -43,6 +45,7 @@ function App() {
 
   const switchSong=(increment)=>{
     setLyricIndex(0);
+    setSpeedAdjustment(0);
     setPlayLyrics(playLyrics => false);
     if(songIndex === 0 && increment < 0) {
       setSongIndex(songIndex => songTitleList.length - 1);
@@ -55,7 +58,6 @@ function App() {
     else {
       setSong(songTitleList[songIndex + increment]);
       setSongIndex(songIndex => songIndex + increment);
-      console.log(songs[song].length);
     }
   };
 
@@ -69,7 +71,7 @@ function App() {
         else {
           setLyricIndex(lyricIndex => lyricIndex + 1);
         }
-      }, songs[song][lyricIndex][1]);
+      }, songs[song][lyricIndex][1] + speedAdjustment);
     } else if (!playLyrics && lyricIndex !== 0) {
       clearInterval(interval);
     }
@@ -86,11 +88,14 @@ function App() {
           <div style={{float:'left', width:'800px'}}>
             <h1>{song}</h1>
           </div>
-          <div style={{float:'right', width:'800px'}}>
-            <Button style={{margin: '20px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '150px', maxHeight: '100px', minWidth: '150px', minHeight: '100px'}} color="secondary" onClick={() => {setPlayLyrics(playLyrics => true)}}>Start</Button>
-            <Button style={{margin: '20px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '150px', maxHeight: '100px', minWidth: '150px', minHeight: '100px'}} color="secondary" onClick={() => {setPlayLyrics(playLyrics => false)}}>Stop</Button>
-            <Button style={{margin: '20px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '150px', maxHeight: '100px', minWidth: '150px', minHeight: '100px'}} color="secondary" onClick={() => switchSong(-1)}>Back</Button>
-            <Button style={{margin: '20px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '150px', maxHeight: '100px', minWidth: '150px', minHeight: '100px'}} color="secondary" onClick={() => switchSong(1)}>Forward</Button>
+          <div style={{float:'right', width:'1000px'}}>
+            <Button style={{margin: '15px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '130px', maxHeight: '100px', minWidth: '130px', minHeight: '100px'}} color="secondary" onClick={() => {setPlayLyrics(playLyrics => true)}}>Start</Button>
+            <Button style={{margin: '15px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '130px', maxHeight: '100px', minWidth: '130px', minHeight: '100px'}} color="secondary" onClick={() => {setPlayLyrics(playLyrics => false)}}>Stop</Button>
+            <Button style={{margin: '15px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '130px', maxHeight: '100px', minWidth: '130px', minHeight: '100px'}} color="secondary" onClick={() => switchSong(-1)}>Back</Button>
+            <Button style={{margin: '15px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '130px', maxHeight: '100px', minWidth: '130px', minHeight: '100px'}} color="secondary" onClick={() => switchSong(1)}>Forward</Button>
+            <Button style={{margin: '10px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '80px', maxHeight: '80px', minWidth: '80px', minHeight: '80px'}} color="secondary" onClick={() => {setSpeedAdjustment(speedAdjustment => speedAdjustment + 500)}}>Slow Down</Button>
+            <p style={{margin: '5px', fontSize: '20px', display: 'inline'}}>{speedAdjustment == 0 ? '' : speedAdjustment > 0 ? 'Slow ' : 'Speed '}{speedAdjustment > 0 ? speedAdjustment : -1*speedAdjustment}</p>
+            <Button style={{margin: '10px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '80px', maxHeight: '80px', minWidth: '80px', minHeight: '80px'}} color="secondary" onClick={() => {setSpeedAdjustment(speedAdjustment => speedAdjustment - 500)}}>Speed Up</Button>
           </div>
         </Toolbar>
       </AppBar>
