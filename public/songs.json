@@ -1,935 +1,3662 @@
 {
     "Every Day I Have the Blues": [
-        "Every day",
-        "Every day I have the blues",
-        "Say everyday",
-        "Everyday I have the blues",
-        "When you see me worryin' baby",
-        "It's you I hate to lose",
-        "Nobody loves me",
-        "Nobody seems to care",
-        "Nobody loves me",
-        "Nobody seems to care",
-        "Talkin' worries and problems people",
-        "Oh you know I've had my share",
-        "",
-        "Every day yeah",
-        "Every day yeah",
-        "Now every day",
-        "Every day",
-        "Every DAY,",
-        "Every day",
-        "Every day",
-        "Every DAY",
-        "Every day",
-        "Every day",
-        "EVERY DAY",
-        "Every day yeah,",
-        "Every day now,",
-        "Every day I have the blues"
+        [
+            "x 4",
+            500.0
+        ],
+        [
+            "Every day",
+            2000.0
+        ],
+        [
+            "Every day I have the blues",
+            500.0
+        ],
+        [
+            "Say everyday",
+            500.0
+        ],
+        [
+            "Everyday I have the blues",
+            500.0
+        ],
+        [
+            "When you see me worryin' baby",
+            500.0
+        ],
+        [
+            "It's you I hate to lose",
+            500.0
+        ],
+        [
+            "Nobody loves me",
+            500.0
+        ],
+        [
+            "Nobody seems to care",
+            500.0
+        ],
+        [
+            "Nobody loves me",
+            500.0
+        ],
+        [
+            "Nobody seems to care",
+            500.0
+        ],
+        [
+            "Talkin' worries and problems people",
+            500.0
+        ],
+        [
+            "Oh you know I've had my share",
+            2000.0
+        ],
+        [
+            "x 6",
+            500.0
+        ],
+        [
+            "Every day yeah",
+            500.0
+        ],
+        [
+            "Every day yeah",
+            500.0
+        ],
+        [
+            "Now every day",
+            500.0
+        ],
+        [
+            "Every day",
+            500.0
+        ],
+        [
+            "Every DAY,",
+            500.0
+        ],
+        [
+            "Every day",
+            500.0
+        ],
+        [
+            "Every day",
+            500.0
+        ],
+        [
+            "Every DAY",
+            500.0
+        ],
+        [
+            "Every day",
+            500.0
+        ],
+        [
+            "Every day",
+            500.0
+        ],
+        [
+            "EVERY DAY",
+            500.0
+        ],
+        [
+            "Every day yeah,",
+            500.0
+        ],
+        [
+            "Every day now,",
+            500.0
+        ],
+        [
+            "Every day I have the blues",
+            500.0
+        ]
     ],
     "Get A  Leg Up": [
-        "Don't look at me don't touch me",
-        "Keep your mind straight ahead",
-        "Don't get no funny ideas about we?",
-        "You'll wish that, you were dead",
-        "That's what I am thinking she must be thinking -",
-        "the girl I spent fifty three bucks on last night",
-        "She gives me a look from the corner of her eye",
-        "That says, \"Boy, keep acting right\"",
-        "How surprised was I When she leaned over",
-        "and whispered in my ear",
-        "Get a leg up",
-        "Get a leg over boy",
-        "Get a leg up",
-        "What's the matter",
-        "Are you shy, shy, shy?",
-        "I'm pretty good with first impressions",
-        "But sometimes I'm not, always right",
-        "I pulled the car to the shoulder of the road",
-        "To see what she, had in mind",
-        "Want me to spend the night",
-        "Hey, lover boy you know I will",
-        "And my best girlfriend lives down the road",
-        "Together, we will thrill ya",
-        "And I'm thinking to myself",
-        "I could be lucky Pierre TONIGHT",
-        "If I could get a leg up",
-        "If I could get a leg over boy",
-        "You know, I ain't that handsome",
-        "But you know I ain't, shy, shy, shy",
-        "",
-        "The rest of the night went on and on",
-        "And the moral, to this song",
-        "Don't go making hasty judgements",
-        "Because uh, sometimes they could be wrong",
-        "Nothing wrong with a good time",
-        "Just keep yourself protected, make a list",
-        "You can bet your life that the women don´t know their little girls",
-        "are acting like this   here",
-        "So the next time a young one moves UP",
-        "And she whispers in your ear  Now",
-        "Get a leg up",
-        "Get a leg over boy",
-        "Get a leg up",
-        "Now don't you be shy, shy, shy",
-        "Now get a leg up",
-        "Get a leg over boy",
-        "You know, I ain't that handsome",
-        "But you know I ain't, shy, shy, shy",
-        "Now get a leg up",
-        "Get a leg over boy",
-        "Get a leg up",
-        "Now don't you be shy, shy, shy.",
-        "Ohh shotgun!"
+        [
+            "Don't look at me don't touch me",
+            500.0
+        ],
+        [
+            "Keep your mind straight ahead",
+            500.0
+        ],
+        [
+            "Don't get no funny ideas about we?",
+            500.0
+        ],
+        [
+            "You'll wish that, you were dead",
+            500.0
+        ],
+        [
+            "That's what I am thinking she must be thinking -",
+            500.0
+        ],
+        [
+            "the girl I spent fifty three bucks on last night",
+            500.0
+        ],
+        [
+            "She gives me a look from the corner of her eye",
+            500.0
+        ],
+        [
+            "That says, \"Boy, keep acting right\"",
+            500.0
+        ],
+        [
+            "How surprised was I When she leaned over",
+            500.0
+        ],
+        [
+            "and whispered in my ear",
+            500.0
+        ],
+        [
+            "Get a leg up",
+            500.0
+        ],
+        [
+            "Get a leg over boy",
+            500.0
+        ],
+        [
+            "Get a leg up",
+            500.0
+        ],
+        [
+            "What's the matter",
+            500.0
+        ],
+        [
+            "Are you shy, shy, shy?",
+            500.0
+        ],
+        [
+            "I'm pretty good with first impressions",
+            500.0
+        ],
+        [
+            "But sometimes I'm not, always right",
+            500.0
+        ],
+        [
+            "I pulled the car to the shoulder of the road",
+            500.0
+        ],
+        [
+            "To see what she, had in mind",
+            500.0
+        ],
+        [
+            "Want me to spend the night",
+            500.0
+        ],
+        [
+            "Hey, lover boy you know I will",
+            500.0
+        ],
+        [
+            "And my best girlfriend lives down the road",
+            500.0
+        ],
+        [
+            "Together, we will thrill ya",
+            500.0
+        ],
+        [
+            "And I'm thinking to myself",
+            500.0
+        ],
+        [
+            "I could be lucky Pierre TONIGHT",
+            500.0
+        ],
+        [
+            "If I could get a leg up",
+            500.0
+        ],
+        [
+            "If I could get a leg over boy",
+            500.0
+        ],
+        [
+            "You know, I ain't that handsome",
+            500.0
+        ],
+        [
+            "But you know I ain't, shy, shy, shy",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "The rest of the night went on and on",
+            500.0
+        ],
+        [
+            "And the moral, to this song",
+            500.0
+        ],
+        [
+            "Don't go making hasty judgements",
+            500.0
+        ],
+        [
+            "Because uh, sometimes they could be wrong",
+            500.0
+        ],
+        [
+            "Nothing wrong with a good time",
+            500.0
+        ],
+        [
+            "Just keep yourself protected, make a list",
+            500.0
+        ],
+        [
+            "You can bet your life that the women don´t know their little girls",
+            500.0
+        ],
+        [
+            "are acting like this   here",
+            500.0
+        ],
+        [
+            "So the next time a young one moves UP",
+            500.0
+        ],
+        [
+            "And she whispers in your ear  Now",
+            500.0
+        ],
+        [
+            "Get a leg up",
+            500.0
+        ],
+        [
+            "Get a leg over boy",
+            500.0
+        ],
+        [
+            "Get a leg up",
+            500.0
+        ],
+        [
+            "Now don't you be shy, shy, shy",
+            500.0
+        ],
+        [
+            "Now get a leg up",
+            500.0
+        ],
+        [
+            "Get a leg over boy",
+            500.0
+        ],
+        [
+            "You know, I ain't that handsome",
+            500.0
+        ],
+        [
+            "But you know I ain't, shy, shy, shy",
+            500.0
+        ],
+        [
+            "Now get a leg up",
+            500.0
+        ],
+        [
+            "Get a leg over boy",
+            500.0
+        ],
+        [
+            "Get a leg up",
+            500.0
+        ],
+        [
+            "Now don't you be shy, shy, shy.",
+            500.0
+        ],
+        [
+            "Ohh shotgun!",
+            500.0
+        ]
     ],
     "Further On Up the Road": [
-        "Further on up the road",
-        "Someone's gonna hurt you like you hurt me",
-        "Further on up the road",
-        "Someone's gonna hurt you like you hurt me (tiny pause)",
-        "Further on up the road",
-        "You just you wait and see",
-        "You gotta reap just what you sow",
-        "That old saying is true",
-        "You gotta reap just what you sow",
-        "That old saying is true",
-        "Just like you mistreat someone",
-        "Someone's gonna mistreat you",
-        "You been laughing, pretty baby  (discreet)",
-        "Someday you're gonna be crying  (discreet)",
-        "You been laughing, pretty baby",
-        "Someday soon you're gonna be crying",
-        "Further on up the road",
-        "You'll find out I wasn't lying",
-        "",
-        "Further on up the road",
-        "Someone's gonna hurt you like you hurt me",
-        "Further on up the roooooad",
-        "Someone's gonna hurt you like you hurt me",
-        "Further on up the roooooad",
-        "Just you wait and see",
-        "You gotta reap just what you sow",
-        "That old saying is true",
-        "You gotta reap just what you sow",
-        "That old saying is true",
-        "Just like you mistreat me baaaaaby?",
-        "Someone's gonna mistreat yooou"
+        [
+            "Further on up the road",
+            500.0
+        ],
+        [
+            "Someone's gonna hurt you like you hurt me",
+            500.0
+        ],
+        [
+            "Further on up the road",
+            500.0
+        ],
+        [
+            "Someone's gonna hurt you like you hurt me (tiny pause)",
+            500.0
+        ],
+        [
+            "Further on up the road",
+            500.0
+        ],
+        [
+            "You just you wait and see",
+            500.0
+        ],
+        [
+            "You gotta reap just what you sow",
+            500.0
+        ],
+        [
+            "That old saying is true",
+            500.0
+        ],
+        [
+            "You gotta reap just what you sow",
+            500.0
+        ],
+        [
+            "That old saying is true",
+            500.0
+        ],
+        [
+            "Just like you mistreat someone",
+            500.0
+        ],
+        [
+            "Someone's gonna mistreat you",
+            500.0
+        ],
+        [
+            "You been laughing, pretty baby  (discreet)",
+            500.0
+        ],
+        [
+            "Someday you're gonna be crying  (discreet)",
+            500.0
+        ],
+        [
+            "You been laughing, pretty baby",
+            500.0
+        ],
+        [
+            "Someday soon you're gonna be crying",
+            500.0
+        ],
+        [
+            "Further on up the road",
+            500.0
+        ],
+        [
+            "You'll find out I wasn't lying",
+            500.0
+        ],
+        [
+            "x 4",
+            500.0
+        ],
+        [
+            "Further on up the road",
+            500.0
+        ],
+        [
+            "Someone's gonna hurt you like you hurt me",
+            500.0
+        ],
+        [
+            "Further on up the roooooad",
+            500.0
+        ],
+        [
+            "Someone's gonna hurt you like you hurt me",
+            500.0
+        ],
+        [
+            "Further on up the roooooad",
+            500.0
+        ],
+        [
+            "Just you wait and see",
+            500.0
+        ],
+        [
+            "You gotta reap just what you sow",
+            500.0
+        ],
+        [
+            "That old saying is true",
+            500.0
+        ],
+        [
+            "You gotta reap just what you sow",
+            500.0
+        ],
+        [
+            "That old saying is true",
+            500.0
+        ],
+        [
+            "Just like you mistreat me baaaaaby?",
+            500.0
+        ],
+        [
+            "Someone's gonna mistreat yooou",
+            500.0
+        ]
     ],
     "Brown Sugar": [
-        "Gold Coast slave ship bound for cotton fields",
-        "Sold in a market down in New Orleans",
-        "SCARRED old slaver knows he's doing alright",
-        "Hear him whip the women just around midnight",
-        "Brown sugar",
-        "How come you taste so good, now?",
-        "Brown sugar",
-        "Just like a young girl should, ah hah, whew",
-        "",
-        "Drums beating cold, English blood runs hot",
-        "Lady of the house wonderin' where it's gonna stop",
-        "House boy Knows that he's doing alright",
-        "You shoulda heard him just around midnight",
-        "Brown sugar",
-        "How come you taste so good, now?",
-        "Brown sugar",
-        "Just like a young girl should now, yeh",
-        "",
-        "Awww, get along, brown sugar",
-        "How come you taste so good?",
-        "Awww, got me feelin' now, brown sugar",
-        "Just like a black girl should",
-        "Nowww I bet your mama was a tent show queen",
-        "And all her boyfriends were sweet sixteen",
-        "I'm no schoolboy, but I know what I like",
-        "You shoulda heard me just around midnight",
-        "Brown sugar",
-        "How come you taste so good yeah",
-        "Ahhhhh, get along now, brown sugar",
-        "Just like a young girl should yeah",
-        "",
-        "I say yeah, yeah, yeah, woooo!",
-        "How come you, how come you dance so good?",
-        "Yeah, yeah, yeah, woooo!",
-        "Just like a, just like a black girl should",
-        "Yeah, yeah, yeah, woooo!"
+        [
+            "x 4",
+            500.0
+        ],
+        [
+            "Gold Coast slave ship bound for cotton fields",
+            500.0
+        ],
+        [
+            "Sold in a market down in New Orleans",
+            500.0
+        ],
+        [
+            "SCARRED old slaver knows he's doing alright",
+            500.0
+        ],
+        [
+            "Hear him whip the women just around midnight",
+            500.0
+        ],
+        [
+            "Brown sugar",
+            500.0
+        ],
+        [
+            "How come you taste so good, now?",
+            500.0
+        ],
+        [
+            "Brown sugar",
+            500.0
+        ],
+        [
+            "Just like a young girl should, ah hah, whew",
+            500.0
+        ],
+        [
+            "x 1",
+            500.0
+        ],
+        [
+            "Drums beating cold, English blood runs hot",
+            500.0
+        ],
+        [
+            "Lady of the house wonderin' where it's gonna stop",
+            500.0
+        ],
+        [
+            "House boy Knows that he's doing alright",
+            500.0
+        ],
+        [
+            "You shoulda heard him just around midnight",
+            500.0
+        ],
+        [
+            "Brown sugar",
+            500.0
+        ],
+        [
+            "How come you taste so good, now?",
+            500.0
+        ],
+        [
+            "Brown sugar",
+            500.0
+        ],
+        [
+            "Just like a young girl should now, yeh",
+            500.0
+        ],
+        [
+            "x 4",
+            500.0
+        ],
+        [
+            "Awww, get along, brown sugar",
+            500.0
+        ],
+        [
+            "How come you taste so good?",
+            500.0
+        ],
+        [
+            "Awww, got me feelin' now, brown sugar",
+            500.0
+        ],
+        [
+            "Just like a black girl should",
+            500.0
+        ],
+        [
+            "Nowww I bet your mama was a tent show queen",
+            500.0
+        ],
+        [
+            "And all her boyfriends were sweet sixteen",
+            500.0
+        ],
+        [
+            "I'm no schoolboy, but I know what I like",
+            500.0
+        ],
+        [
+            "You shoulda heard me just around midnight",
+            500.0
+        ],
+        [
+            "Brown sugar",
+            500.0
+        ],
+        [
+            "How come you taste so good yeah",
+            500.0
+        ],
+        [
+            "Ahhhhh, get along now, brown sugar",
+            500.0
+        ],
+        [
+            "Just like a young girl should yeah",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "I say yeah, yeah, yeah, woooo!",
+            500.0
+        ],
+        [
+            "How come you, how come you dance so good?",
+            500.0
+        ],
+        [
+            "Yeah, yeah, yeah, woooo!",
+            500.0
+        ],
+        [
+            "Just like a, just like a black girl should",
+            500.0
+        ],
+        [
+            "Yeah, yeah, yeah, woooo!",
+            500.0
+        ]
     ],
     "Squeeze Box": [
-        "Mama's got a squeeze box",
-        "She wears on her chest",
-        "And when daddy comes home",
-        "He never gets no rest",
-        "'Cause she's playing all night",
-        "And the music's all right",
-        "Mama's got a squeeze box",
-        "Daddy never sleeps at night",
-        "",
-        "Well the kids don't eat",
-        "And the dog can't sleep",
-        "There's no escape from the music",
-        "In the whole damn street",
-        "'Cause she's playing all night",
-        "And the music's all right",
-        "Mama's got a squeeze box",
-        "Daddy never sleeps at night",
-        "",
-        "She goes in and out and in",
-        "And out and in and out and in and out",
-        "She's playing all night",
-        "And the music's all right",
-        "Mama's got a squeeze box",
-        "Daddy never sleeps at night",
-        "",
-        "She goes squeeze me",
-        "Come on and squeeze me",
-        "Come on and tease me like you do",
-        "I'm so in love with you",
-        "Yeah Mama's got a squeeze box",
-        "Daddy never sleeps at night",
-        "",
-        "She goes in and out and in",
-        "And out and in and out and in and out",
-        "Cause she's playin' all night",
-        "And the music's all right",
-        "Mama's got a squeeze box",
-        "Daddy never sleeps at night"
+        [
+            "Mama's got a squeeze box",
+            500.0
+        ],
+        [
+            "She wears on her chest",
+            500.0
+        ],
+        [
+            "And when daddy comes home",
+            500.0
+        ],
+        [
+            "He never gets no rest",
+            500.0
+        ],
+        [
+            "'Cause she's playing all night",
+            500.0
+        ],
+        [
+            "And the music's all right",
+            500.0
+        ],
+        [
+            "Mama's got a squeeze box",
+            500.0
+        ],
+        [
+            "Daddy never sleeps at night",
+            500.0
+        ],
+        [
+            "x 1",
+            500.0
+        ],
+        [
+            "Well the kids don't eat",
+            500.0
+        ],
+        [
+            "And the dog can't sleep",
+            500.0
+        ],
+        [
+            "There's no escape from the music",
+            500.0
+        ],
+        [
+            "In the whole damn street",
+            500.0
+        ],
+        [
+            "'Cause she's playing all night",
+            500.0
+        ],
+        [
+            "And the music's all right",
+            500.0
+        ],
+        [
+            "Mama's got a squeeze box",
+            500.0
+        ],
+        [
+            "Daddy never sleeps at night",
+            500.0
+        ],
+        [
+            "x 1",
+            500.0
+        ],
+        [
+            "She goes in and out and in",
+            500.0
+        ],
+        [
+            "And out and in and out and in and out",
+            500.0
+        ],
+        [
+            "She's playing all night",
+            500.0
+        ],
+        [
+            "And the music's all right",
+            500.0
+        ],
+        [
+            "Mama's got a squeeze box",
+            500.0
+        ],
+        [
+            "Daddy never sleeps at night",
+            500.0
+        ],
+        [
+            "x 1",
+            500.0
+        ],
+        [
+            "She goes squeeze me",
+            500.0
+        ],
+        [
+            "Come on and squeeze me",
+            500.0
+        ],
+        [
+            "Come on and tease me like you do",
+            500.0
+        ],
+        [
+            "I'm so in love with you",
+            500.0
+        ],
+        [
+            "Yeah Mama's got a squeeze box",
+            500.0
+        ],
+        [
+            "Daddy never sleeps at night",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "She goes in and out and in",
+            500.0
+        ],
+        [
+            "And out and in and out and in and out",
+            500.0
+        ],
+        [
+            "Cause she's playin' all night",
+            500.0
+        ],
+        [
+            "And the music's all right",
+            500.0
+        ],
+        [
+            "Mama's got a squeeze box",
+            500.0
+        ],
+        [
+            "Daddy never sleeps at night",
+            500.0
+        ]
     ],
     "Bad Bad Pain": [
-        "When I was comin' up",
-        "had a bad, bad pain.",
-        "I just didn't realize",
-        "it's hard to explain.",
-        "Tellin' all you people",
-        "cannot see,",
-        "there was the blues, goin' on inside of me.",
-        "Dowwwwn in side of me yah",
-        "Trouble with ya was",
-        "thought it'd ease my pain",
-        "Time went by",
-        "things weren't the same",
-        "I'm tellin' all you people, ",
-        "cannot see,",
-        "there was the blues, goin' on inside of me.",
-        "Inside of me yah",
-        "",
-        "Well I'm tellin' all you people, ",
-        "cannot see",
-        "there was the blues, goin' on inside of me.",
-        "Inside of me yah"
+        [
+            "When I was comin' up",
+            500.0
+        ],
+        [
+            "had a bad, bad pain.",
+            500.0
+        ],
+        [
+            "I just didn't realize",
+            500.0
+        ],
+        [
+            "it's hard to explain.",
+            500.0
+        ],
+        [
+            "Tellin' all you people",
+            500.0
+        ],
+        [
+            "cannot see,",
+            500.0
+        ],
+        [
+            "there was the blues, goin' on inside of me.",
+            500.0
+        ],
+        [
+            "Dowwwwn in side of me yah",
+            500.0
+        ],
+        [
+            "Trouble with ya was",
+            500.0
+        ],
+        [
+            "thought it'd ease my pain",
+            500.0
+        ],
+        [
+            "Time went by",
+            500.0
+        ],
+        [
+            "things weren't the same",
+            500.0
+        ],
+        [
+            "I'm tellin' all you people, ",
+            500.0
+        ],
+        [
+            "cannot see,",
+            500.0
+        ],
+        [
+            "there was the blues, goin' on inside of me.",
+            500.0
+        ],
+        [
+            "Inside of me yah",
+            500.0
+        ],
+        [
+            "x 8",
+            500.0
+        ],
+        [
+            "Well I'm tellin' all you people, ",
+            500.0
+        ],
+        [
+            "cannot see",
+            500.0
+        ],
+        [
+            "there was the blues, goin' on inside of me.",
+            500.0
+        ],
+        [
+            "Inside of me yah",
+            500.0
+        ]
     ],
     "7 Bridges Road": [
-        "There are stars in the southern sky",
-        "Southward as you go",
-        "There is moonlight and moss in the trees",
-        "Down the seven bridges road",
-        "Now I have loved you like a baby",
-        "Like some lonesome child",
-        "And I have loved you in a tame way",
-        "And I have loved you wild",
-        "Sometimes there's a part of me",
-        "Has to turn from here and go",
-        "Running like a child from these warm stars",
-        "Down the seven bridges road",
-        "There are stars in the southern sky",
-        "And if ever you decide you should go",
-        "There is a taste of thyme sweetened honey",
-        "Down the seven bridges road"
+        [
+            "There are stars in the southern sky",
+            500.0
+        ],
+        [
+            "Southward as you go",
+            500.0
+        ],
+        [
+            "There is moonlight and moss in the trees",
+            500.0
+        ],
+        [
+            "Down the seven bridges road",
+            500.0
+        ],
+        [
+            "",
+            500.0
+        ],
+        [
+            "Now I have loved you like a baby",
+            500.0
+        ],
+        [
+            "Like some lonesome child",
+            500.0
+        ],
+        [
+            "And I have loved you in a tame way",
+            500.0
+        ],
+        [
+            "And I have loved you wild",
+            500.0
+        ],
+        [
+            "",
+            500.0
+        ],
+        [
+            "Sometimes there's a part of me",
+            500.0
+        ],
+        [
+            "Has to turn from here and go",
+            500.0
+        ],
+        [
+            "Running like a child from these warm stars",
+            500.0
+        ],
+        [
+            "",
+            500.0
+        ],
+        [
+            "Down the seven bridges road",
+            500.0
+        ],
+        [
+            "There are stars in the southern sky",
+            500.0
+        ],
+        [
+            "And if ever you decide you should go",
+            500.0
+        ],
+        [
+            "There is a taste of thyme sweetened honey",
+            500.0
+        ],
+        [
+            "Down the seven bridges road",
+            500.0
+        ]
     ],
     "Somethin' Like Olivia": [
-        "Well, Olivia is taken-",
-        "But a look like hers can be found from time to time",
-        "Yeah, Olivia is taken-",
-        "But a look like hers can be found from time to time",
-        "I'm thinkin' somethin' like Olivia is",
-        "What I need to find",
-        "There's only one man in this world who gets to-",
-        "sleep with her BY his side.  (down)",
-        "There's only one man in this world who gets to-",
-        "sleep with her BY his side.  (down)",
-        "I'm thinkin' somethin' like Olivia could ",
-        "Keep me through the night",
-        "",
-        "Now I'm not tryin' to steal",
-        "No love away from no one babe (down)",
-        "No I'm not tryin' to steal",
-        "No love away from no one babe (down)",
-        "But if Olivia herself were at my door",
-        "I'd have to say, I'd let her in",
-        "Somethin' like Olivia",
-        "Somethin' like Olivia",
-        "Somethin' like Olivia",
-        "Somethin' like Olivia",
-        "I keep thinkin' somethin' like Olivia is",
-        "What I need to find",
-        "Somethin' like Olivia",
-        "Somethin' like Olivia",
-        "Somethin' like Olivia",
-        "Somethin' like Olivia",
-        "I keep thinkin' somethin' like Olivia is",
-        "What I need to find"
+        [
+            "Well, Olivia is taken-",
+            500.0
+        ],
+        [
+            "But a look like hers can be found from time to time",
+            500.0
+        ],
+        [
+            "Yeah, Olivia is taken-",
+            500.0
+        ],
+        [
+            "But a look like hers can be found from time to time",
+            500.0
+        ],
+        [
+            "I'm thinkin' somethin' like Olivia is",
+            500.0
+        ],
+        [
+            "What I need to find",
+            500.0
+        ],
+        [
+            "There's only one man in this world who gets to-",
+            500.0
+        ],
+        [
+            "sleep with her BY his side.  (down)",
+            500.0
+        ],
+        [
+            "There's only one man in this world who gets to-",
+            500.0
+        ],
+        [
+            "sleep with her BY his side.  (down)",
+            500.0
+        ],
+        [
+            "I'm thinkin' somethin' like Olivia could ",
+            500.0
+        ],
+        [
+            "Keep me through the night",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "Now I'm not tryin' to steal",
+            500.0
+        ],
+        [
+            "No love away from no one babe (down)",
+            500.0
+        ],
+        [
+            "No I'm not tryin' to steal",
+            500.0
+        ],
+        [
+            "No love away from no one babe (down)",
+            500.0
+        ],
+        [
+            "But if Olivia herself were at my door",
+            500.0
+        ],
+        [
+            "I'd have to say, I'd let her in",
+            500.0
+        ],
+        [
+            "Somethin' like Olivia",
+            500.0
+        ],
+        [
+            "Somethin' like Olivia",
+            500.0
+        ],
+        [
+            "Somethin' like Olivia",
+            500.0
+        ],
+        [
+            "Somethin' like Olivia",
+            500.0
+        ],
+        [
+            "I keep thinkin' somethin' like Olivia is",
+            500.0
+        ],
+        [
+            "What I need to find",
+            500.0
+        ],
+        [
+            "Somethin' like Olivia",
+            500.0
+        ],
+        [
+            "Somethin' like Olivia",
+            500.0
+        ],
+        [
+            "Somethin' like Olivia",
+            500.0
+        ],
+        [
+            "Somethin' like Olivia",
+            500.0
+        ],
+        [
+            "I keep thinkin' somethin' like Olivia is",
+            500.0
+        ],
+        [
+            "What I need to find",
+            500.0
+        ]
     ],
     "The Breeze": [
-        "They call me the breeze",
-        "I keep blowin' down the road",
-        "Well now, they call me the breeze",
-        "I keep blowin' down the road",
-        "I ain't got me nobody",
-        "I ain't carrying me no load",
-        "There ain't no change in the weather",
-        "Ain't no change in' me",
-        "There ain't no change in the weather",
-        "Ain't no change in' me",
-        "I ain't hidin' from nobody",
-        "Nobody's hidin' from me",
-        "",
-        "I got that green light, baby",
-        "I got to keep movin' on",
-        "I got that green light, baby",
-        "I got to keep movin' on",
-        "I might go out to California,  go",
-        " down to Georgia, I don't know"
+        [
+            "They call me the breeze",
+            3100.0
+        ],
+        [
+            "I keep blowin' down the road",
+            3100.0
+        ],
+        [
+            "Well now, they call me the breeze",
+            3100.0
+        ],
+        [
+            "I keep blowin' down the road",
+            3100.0
+        ],
+        [
+            "I ain't got me nobody",
+            3100.0
+        ],
+        [
+            "I ain't carrying me no load",
+            3100.0
+        ],
+        [
+            "There ain't no change in the weather",
+            3100.0
+        ],
+        [
+            "Ain't no change in' me",
+            3100.0
+        ],
+        [
+            "There ain't no change in the weather",
+            3100.0
+        ],
+        [
+            "Ain't no change in' me",
+            3100.0
+        ],
+        [
+            "I ain't hidin' from nobody",
+            3100.0
+        ],
+        [
+            "Nobody's hidin' from me",
+            3100.0
+        ],
+        [
+            "x 2",
+            3100.0
+        ],
+        [
+            "I got that green light, baby",
+            3100.0
+        ],
+        [
+            "I got to keep movin' on",
+            3100.0
+        ],
+        [
+            "I got that green light, baby",
+            3100.0
+        ],
+        [
+            "I got to keep movin' on",
+            3100.0
+        ],
+        [
+            "I might go out to California,  go",
+            3100.0
+        ],
+        [
+            " down to Georgia, I don't know",
+            3100.0
+        ]
     ],
     "Was It 26": [
-        "Livin' hard was easy when I was young and bullet-proof?",
-        "I had no chains to bind me just a guitar and a roof  (pause)",
-        "Emptied every BOTTLE, when I poured I never missed?",
-        "I had blood shot eyes at twenty five, or was it twenty six  (pause)",
-        "Didn't seem to matter what PRice I had to pay?",
-        "Cause anything worth havin' I'd just lose any way  (pause)",
-        "Friends worried ABOUT me they'd ask if I was sick?",
-        "Thought I wouldn't die at twenty five, or was it twenty six",
-        "Those two years run together like WHISKEY over ice",
-        "Melted into memory like somebody else's life",
-        "I'm glad to say I've come a- round",
-        "If I could have one wish",
-        "I'd like another try at twenty five  (pause)",
-        "Or was it twenty six",
-        "",
-        "Met a girl from Georgia, smart and pretty college grad?",
-        "I thought my luck was changin' but then it ALL went bad (pause)",
-        "I guess I fell in LOVE with her, all it took was just one kiss",
-        "But then she said goodbye at twenty-five, or was it twenty six",
-        "Those two years run together like WHISKEY over ice",
-        "Melted into memory like somebody else's life",
-        "I'm glad to say I've come a- round",
-        "But if I could have one wish",
-        "I'd like another try at twenty five",
-        "Or was it twenty six",
-        "",
-        "Now I've been down that road before almost as far as hell?",
-        "Deception or redemption I guess only TIME will tell",
-        "I have faith and the KNOWLEDGE that God gave us a gift?",
-        "I couldn't hide at twenty-five, or was it twenty-six",
-        "Those two years run together like WHISKEY over ice",
-        "Melted into memory like somebody else's life  (pause)",
-        "I'm glad to say I've come a- round",
-        "I could have one wish  (down)",
-        "I'd like another try at twenty five  (pause)",
-        "Or was it twenty six",
-        ""
+        [
+            "Livin' hard was easy when I was young and bullet-proof?",
+            500.0
+        ],
+        [
+            "I had no chains to bind me just a guitar and a roof  (pause)",
+            500.0
+        ],
+        [
+            "Emptied every BOTTLE, when I poured I never missed?",
+            500.0
+        ],
+        [
+            "I had blood shot eyes at twenty five, or was it twenty six  (pause)",
+            500.0
+        ],
+        [
+            "Didn't seem to matter what PRice I had to pay?",
+            500.0
+        ],
+        [
+            "Cause anything worth havin' I'd just lose any way  (pause)",
+            500.0
+        ],
+        [
+            "Friends worried ABOUT me they'd ask if I was sick?",
+            500.0
+        ],
+        [
+            "Thought I wouldn't die at twenty five, or was it twenty six",
+            500.0
+        ],
+        [
+            "Those two years run together like WHISKEY over ice",
+            500.0
+        ],
+        [
+            "Melted into memory like somebody else's life",
+            500.0
+        ],
+        [
+            "I'm glad to say I've come a- round",
+            500.0
+        ],
+        [
+            "If I could have one wish",
+            500.0
+        ],
+        [
+            "I'd like another try at twenty five  (pause)",
+            500.0
+        ],
+        [
+            "Or was it twenty six",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "Met a girl from Georgia, smart and pretty college grad?",
+            500.0
+        ],
+        [
+            "I thought my luck was changin' but then it ALL went bad (pause)",
+            500.0
+        ],
+        [
+            "I guess I fell in LOVE with her, all it took was just one kiss",
+            500.0
+        ],
+        [
+            "But then she said goodbye at twenty-five, or was it twenty six",
+            500.0
+        ],
+        [
+            "Those two years run together like WHISKEY over ice",
+            500.0
+        ],
+        [
+            "Melted into memory like somebody else's life",
+            500.0
+        ],
+        [
+            "I'm glad to say I've come a- round",
+            500.0
+        ],
+        [
+            "But if I could have one wish",
+            500.0
+        ],
+        [
+            "I'd like another try at twenty five",
+            500.0
+        ],
+        [
+            "Or was it twenty six",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "Now I've been down that road before almost as far as hell?",
+            500.0
+        ],
+        [
+            "Deception or redemption I guess only TIME will tell",
+            500.0
+        ],
+        [
+            "I have faith and the KNOWLEDGE that God gave us a gift?",
+            500.0
+        ],
+        [
+            "I couldn't hide at twenty-five, or was it twenty-six",
+            500.0
+        ],
+        [
+            "Those two years run together like WHISKEY over ice",
+            500.0
+        ],
+        [
+            "Melted into memory like somebody else's life  (pause)",
+            500.0
+        ],
+        [
+            "I'm glad to say I've come a- round",
+            500.0
+        ],
+        [
+            "I could have one wish  (down)",
+            500.0
+        ],
+        [
+            "I'd like another try at twenty five  (pause)",
+            500.0
+        ],
+        [
+            "Or was it twenty six",
+            500.0
+        ],
+        [
+            "x 4",
+            500.0
+        ]
     ],
     "Blue On Black": [
-        "Night, falls and I'm alone",
-        "Skin, chilled me to the bone",
-        "You, turned and you ran, oh yeah",
-        "Slipped, right from my hand",
-        "Hey",
-        "Blue on black",
-        "Tears on a river",
-        "A push on a shove",
-        "It don't mean much",
-        "Joker on jack",
-        "Match on a fire",
-        "Cold on ice",
-        "A dead man's touch",
-        "Whisper on a scream",
-        "Doesn't change a thing",
-        "Don't bring you back",
-        "Blue on black  (pause)  ohhhh",
-        "Blind, oh, but now I see",
-        "Truth, lies and in between",
-        "Wrong, can't be undone, oh no",
-        "Slipped, from the tip of your tongue",
-        "Hey",
-        "Blue on black",
-        "Tears on a river",
-        "A push on a shove",
-        "It don't mean much",
-        "Joker on jack",
-        "Match on a fire",
-        "Cold on ice",
-        "A dead man's touch",
-        "Whisper on a scream",
-        "Doesn't change a thing",
-        "Don't bring you back",
-        "Blue on black",
-        "",
-        "Hey",
-        "Blue on black",
-        "Tears on a river",
-        "A push on a shove",
-        "It don't mean much",
-        "Joker on jack",
-        "Match on a fire",
-        "Cold on ice",
-        "A dead man's touch",
-        "Whisper on a scream",
-        "Doesn't change a thing",
-        "Don't bring you back",
-        "Blue on black",
-        "Blue on black (pause)",
-        "",
-        "Hey",
-        "Blue on black",
-        "Tears on a river",
-        "A push on a shove",
-        "It don't mean much",
-        "Joker on jack",
-        "Match on a fire",
-        "Cold on ice",
-        "A dead man's touch",
-        "Whisper on a scream",
-        "Doesn't change a thing",
-        "Don't bring you back",
-        "Blue on black",
-        "Oh, blue on black",
-        "Blue on black",
-        "Oh, blue on black"
+        [
+            "Night, falls and I'm alone",
+            500.0
+        ],
+        [
+            "Skin, chilled me to the bone",
+            500.0
+        ],
+        [
+            "You, turned and you ran, oh yeah",
+            500.0
+        ],
+        [
+            "Slipped, right from my hand",
+            500.0
+        ],
+        [
+            "Hey",
+            500.0
+        ],
+        [
+            "Blue on black",
+            500.0
+        ],
+        [
+            "Tears on a river",
+            500.0
+        ],
+        [
+            "A push on a shove",
+            500.0
+        ],
+        [
+            "It don't mean much",
+            500.0
+        ],
+        [
+            "Joker on jack",
+            500.0
+        ],
+        [
+            "Match on a fire",
+            500.0
+        ],
+        [
+            "Cold on ice",
+            500.0
+        ],
+        [
+            "A dead man's touch",
+            500.0
+        ],
+        [
+            "Whisper on a scream",
+            500.0
+        ],
+        [
+            "Doesn't change a thing",
+            500.0
+        ],
+        [
+            "Don't bring you back",
+            500.0
+        ],
+        [
+            "Blue on black  (pause)  ohhhh",
+            500.0
+        ],
+        [
+            "Blind, oh, but now I see",
+            500.0
+        ],
+        [
+            "Truth, lies and in between",
+            500.0
+        ],
+        [
+            "Wrong, can't be undone, oh no",
+            500.0
+        ],
+        [
+            "Slipped, from the tip of your tongue",
+            500.0
+        ],
+        [
+            "Hey",
+            500.0
+        ],
+        [
+            "Blue on black",
+            500.0
+        ],
+        [
+            "Tears on a river",
+            500.0
+        ],
+        [
+            "A push on a shove",
+            500.0
+        ],
+        [
+            "It don't mean much",
+            500.0
+        ],
+        [
+            "Joker on jack",
+            500.0
+        ],
+        [
+            "Match on a fire",
+            500.0
+        ],
+        [
+            "Cold on ice",
+            500.0
+        ],
+        [
+            "A dead man's touch",
+            500.0
+        ],
+        [
+            "Whisper on a scream",
+            500.0
+        ],
+        [
+            "Doesn't change a thing",
+            500.0
+        ],
+        [
+            "Don't bring you back",
+            500.0
+        ],
+        [
+            "Blue on black",
+            500.0
+        ],
+        [
+            "x 6",
+            500.0
+        ],
+        [
+            "Hey",
+            500.0
+        ],
+        [
+            "Blue on black",
+            500.0
+        ],
+        [
+            "Tears on a river",
+            500.0
+        ],
+        [
+            "A push on a shove",
+            500.0
+        ],
+        [
+            "It don't mean much",
+            500.0
+        ],
+        [
+            "Joker on jack",
+            500.0
+        ],
+        [
+            "Match on a fire",
+            500.0
+        ],
+        [
+            "Cold on ice",
+            500.0
+        ],
+        [
+            "A dead man's touch",
+            500.0
+        ],
+        [
+            "Whisper on a scream",
+            500.0
+        ],
+        [
+            "Doesn't change a thing",
+            500.0
+        ],
+        [
+            "Don't bring you back",
+            500.0
+        ],
+        [
+            "Blue on black",
+            500.0
+        ],
+        [
+            "Blue on black (pause)",
+            500.0
+        ],
+        [
+            "x 1",
+            500.0
+        ],
+        [
+            "Hey",
+            500.0
+        ],
+        [
+            "Blue on black",
+            500.0
+        ],
+        [
+            "Tears on a river",
+            500.0
+        ],
+        [
+            "A push on a shove",
+            500.0
+        ],
+        [
+            "It don't mean much",
+            500.0
+        ],
+        [
+            "Joker on jack",
+            500.0
+        ],
+        [
+            "Match on a fire",
+            500.0
+        ],
+        [
+            "Cold on ice",
+            500.0
+        ],
+        [
+            "A dead man's touch",
+            500.0
+        ],
+        [
+            "Whisper on a scream",
+            500.0
+        ],
+        [
+            "Doesn't change a thing",
+            500.0
+        ],
+        [
+            "Don't bring you back",
+            500.0
+        ],
+        [
+            "Blue on black",
+            500.0
+        ],
+        [
+            "Oh, blue on black",
+            500.0
+        ],
+        [
+            "Blue on black",
+            500.0
+        ],
+        [
+            "Oh, blue on black",
+            500.0
+        ]
     ],
     "Why Get Up": [
-        "Why get up, why get up",
-        "How can I get up, why should I get up",
-        "This whole world's gone crazy - think I've seen enough",
-        "I'm gonna sleep forever, why get up",
-        "The phone keeps ringing right off the hook (pause)",
-        "Some bill collector I know what cooks",
-        "Think I'll stay in bed, and dream all day",
-        "The world outside bugs me anyway",
-        "When I get things going, the going gets rough -",
-        "So I ask MYSELF why get up",
-        "Why get up, why get up",
-        "How can I get up, why should I get up",
-        "This whole world's gone crazy - think I've seen enough",
-        "I'm gonna sleep forever why get up",
-        "I went to the doctor he said lose some weight",
-        "If you don't do it quick we'll have to operate",
-        "I talked to my lawyer he said \"Case is closed\"",
-        "That woman got it all even the garden hose",
-        "Staring at the ceiling thinking, just my luck",
-        "I better roll back over, why get up",
-        "Why get up, why get up",
-        "How can I get up, why should I get up",
-        "This whole world's gone crazy - think I've seen enough",
-        "I'm gonna sleep forever, why get up",
-        "",
-        "WELLLL I can't quit drinking I'm nervous all the time",
-        "When I wake up it's like a ton of lead on my mind",
-        "What was it I said, to that girl last night",
-        "She really got upset I best stay out of sight",
-        "I remember a gun and calling somebody's bluff",
-        "I better duck under cover, why get up",
-        "Why get up, why get up",
-        "How can I get up, why should I get up",
-        "This whole world's gone crazy - think I've seen enough",
-        "I'm gonna sleep forever why get up",
-        "Why get up, why get up",
-        "How can I get up, why should I get up",
-        "This whole world's gone crazy - think I've seen enough",
-        "I'm gonna sleep forever why get up"
+        [
+            "Why get up, why get up",
+            500.0
+        ],
+        [
+            "How can I get up, why should I get up",
+            500.0
+        ],
+        [
+            "This whole world's gone crazy - think I've seen enough",
+            500.0
+        ],
+        [
+            "I'm gonna sleep forever, why get up",
+            500.0
+        ],
+        [
+            "The phone keeps ringing right off the hook (pause)",
+            500.0
+        ],
+        [
+            "Some bill collector I know what cooks",
+            500.0
+        ],
+        [
+            "Think I'll stay in bed, and dream all day",
+            500.0
+        ],
+        [
+            "The world outside bugs me anyway",
+            500.0
+        ],
+        [
+            "When I get things going, the going gets rough -",
+            500.0
+        ],
+        [
+            "So I ask MYSELF why get up",
+            500.0
+        ],
+        [
+            "Why get up, why get up",
+            500.0
+        ],
+        [
+            "How can I get up, why should I get up",
+            500.0
+        ],
+        [
+            "This whole world's gone crazy - think I've seen enough",
+            500.0
+        ],
+        [
+            "I'm gonna sleep forever why get up",
+            500.0
+        ],
+        [
+            "I went to the doctor he said lose some weight",
+            500.0
+        ],
+        [
+            "If you don't do it quick we'll have to operate",
+            500.0
+        ],
+        [
+            "I talked to my lawyer he said \"Case is closed\"",
+            500.0
+        ],
+        [
+            "That woman got it all even the garden hose",
+            500.0
+        ],
+        [
+            "Staring at the ceiling thinking, just my luck",
+            500.0
+        ],
+        [
+            "I better roll back over, why get up",
+            500.0
+        ],
+        [
+            "Why get up, why get up",
+            500.0
+        ],
+        [
+            "How can I get up, why should I get up",
+            500.0
+        ],
+        [
+            "This whole world's gone crazy - think I've seen enough",
+            500.0
+        ],
+        [
+            "I'm gonna sleep forever, why get up",
+            500.0
+        ],
+        [
+            "x 4",
+            500.0
+        ],
+        [
+            "WELLLL I can't quit drinking I'm nervous all the time",
+            500.0
+        ],
+        [
+            "When I wake up it's like a ton of lead on my mind",
+            500.0
+        ],
+        [
+            "What was it I said, to that girl last night",
+            500.0
+        ],
+        [
+            "She really got upset I best stay out of sight",
+            500.0
+        ],
+        [
+            "I remember a gun and calling somebody's bluff",
+            500.0
+        ],
+        [
+            "I better duck under cover, why get up",
+            500.0
+        ],
+        [
+            "Why get up, why get up",
+            500.0
+        ],
+        [
+            "How can I get up, why should I get up",
+            500.0
+        ],
+        [
+            "This whole world's gone crazy - think I've seen enough",
+            500.0
+        ],
+        [
+            "I'm gonna sleep forever why get up",
+            500.0
+        ],
+        [
+            "Why get up, why get up",
+            500.0
+        ],
+        [
+            "How can I get up, why should I get up",
+            500.0
+        ],
+        [
+            "This whole world's gone crazy - think I've seen enough",
+            500.0
+        ],
+        [
+            "I'm gonna sleep forever why get up",
+            500.0
+        ]
     ],
     "Beast of Burden": [
-        "I'll never be your beast of burden",
-        "My back is broad but it's a-hurting",
-        "All I want is for you to make love to me",
-        "I'll never be your beast of burden",
-        "I've walked for miles, my feet are hurting",
-        "All I want is for you to make love to me",
-        "Am I hard enough?",
-        "Am I rough enough?",
-        "Am I rich enough?",
-        "I'm not too blind to see, yeah ",
-        "I'll never be your beast of burden",
-        "So let's go home girl, and draw the curtains",
-        "Music on the radio sayin'",
-        "Come on baby make sweet love, to me",
-        "Yeah all your sickness, I can suck it up",
-        "Throw it all at me Baby I can shrug it off",
-        "There's one thing, baby",
-        "I don't understand",
-        "You keep on telling me",
-        "I ain't your kind of man",
-        "Ain't I rough enough?",
-        "Ain't I tough enough?",
-        "Ain't I rich enough? In love enough?",
-        "Please, please, please, please",
-        "",
-        "Ah,  pretty, pretty, pretty, pretty, pretty, pretty girl",
-        "Pretty, pretty, such a pretty, pretty, pretty girl",
-        "Come on, baby, please, please, please",
-        "You can put me out",
-        "Out on the street",
-        "Put me out",
-        "With no shoes on my feet",
-        "Put me out, put me out",
-        "Put me out of misery, yeah",
-        "I'll never be your beast or burden",
-        "Don't need no fussing",
-        "I don't need no nursing",
-        "All I want is for you to make love to me",
-        "I'll never be your beast or burden",
-        "I'll never be your beast or burden",
-        "Never, never, never, never, never, never, never"
+        [
+            "I'll never be your beast of burden",
+            500.0
+        ],
+        [
+            "My back is broad but it's a-hurting",
+            500.0
+        ],
+        [
+            "All I want is for you to make love to me",
+            500.0
+        ],
+        [
+            "I'll never be your beast of burden",
+            500.0
+        ],
+        [
+            "I've walked for miles, my feet are hurting",
+            500.0
+        ],
+        [
+            "All I want is for you to make love to me",
+            500.0
+        ],
+        [
+            "Am I hard enough?",
+            500.0
+        ],
+        [
+            "Am I rough enough?",
+            500.0
+        ],
+        [
+            "Am I rich enough?",
+            500.0
+        ],
+        [
+            "I'm not too blind to see, yeah ",
+            500.0
+        ],
+        [
+            "I'll never be your beast of burden",
+            500.0
+        ],
+        [
+            "So let's go home girl, and draw the curtains",
+            500.0
+        ],
+        [
+            "Music on the radio sayin'",
+            500.0
+        ],
+        [
+            "Come on baby make sweet love, to me",
+            500.0
+        ],
+        [
+            "Yeah all your sickness, I can suck it up",
+            500.0
+        ],
+        [
+            "Throw it all at me Baby I can shrug it off",
+            500.0
+        ],
+        [
+            "There's one thing, baby",
+            500.0
+        ],
+        [
+            "I don't understand",
+            500.0
+        ],
+        [
+            "You keep on telling me",
+            500.0
+        ],
+        [
+            "I ain't your kind of man",
+            500.0
+        ],
+        [
+            "Ain't I rough enough?",
+            500.0
+        ],
+        [
+            "Ain't I tough enough?",
+            500.0
+        ],
+        [
+            "Ain't I rich enough? In love enough?",
+            500.0
+        ],
+        [
+            "Please, please, please, please",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "Ah,  pretty, pretty, pretty, pretty, pretty, pretty girl",
+            500.0
+        ],
+        [
+            "Pretty, pretty, such a pretty, pretty, pretty girl",
+            500.0
+        ],
+        [
+            "Come on, baby, please, please, please",
+            500.0
+        ],
+        [
+            "You can put me out",
+            500.0
+        ],
+        [
+            "Out on the street",
+            500.0
+        ],
+        [
+            "Put me out",
+            500.0
+        ],
+        [
+            "With no shoes on my feet",
+            500.0
+        ],
+        [
+            "Put me out, put me out",
+            500.0
+        ],
+        [
+            "Put me out of misery, yeah",
+            500.0
+        ],
+        [
+            "I'll never be your beast or burden",
+            500.0
+        ],
+        [
+            "Don't need no fussing",
+            500.0
+        ],
+        [
+            "I don't need no nursing",
+            500.0
+        ],
+        [
+            "All I want is for you to make love to me",
+            500.0
+        ],
+        [
+            "I'll never be your beast or burden",
+            500.0
+        ],
+        [
+            "I'll never be your beast or burden",
+            500.0
+        ],
+        [
+            "Never, never, never, never, never, never, never",
+            500.0
+        ]
     ],
     "Tulsa Time": [
-        "Well I left Oklahoma, drivin' in a Pontiac",
-        "Just about to lose my mind",
-        "I was goin' to Arizona",
-        "Maybe on to California",
-        "Where people all live so fine",
-        "My mama says I'm crazy",
-        "My baby calls me lazy",
-        "But I'm gonna show 'em all this time",
-        "'Cause you know I ain't no foolin'",
-        "And I don't need no more schoolin'",
-        "I was born to just walk the line",
-        "Livin' on Tulsa time",
-        "Livin' on Tulsa time",
-        "I'll set my watch back to it",
-        "Cause you know that I've been through it",
-        "Livin' on Tulsa Time",
-        "",
-        "Well there I was in Hollywood",
-        "Thinkin' I was doin' good",
-        "Talkin' on the telephone line",
-        "They don't want me in the movies",
-        "And nobody sings my songs",
-        "My momma says my baby's doin' fine",
-        "Well, then I got to thinkin'",
-        "Man I'm really sinkin'",
-        "And I really had a flash this time",
-        "I had no business leavin'",
-        "And nobody would be grievin'",
-        "You see I'm on Tulsa time",
-        "Livin' on Tulsa time",
-        "Livin' on Tulsa time",
-        "Gonna set my watch back to it",
-        "Cause you know that I been through it",
-        "Livin' on Tulsa time",
-        "Livin' on Tulsa time",
-        "Livin' on Tulsa time",
-        "Gonna set my watch back to it",
-        "Cause you know that I've been through it",
-        "Livin' on Tulsa time"
+        [
+            "Well I left Oklahoma, drivin' in a Pontiac",
+            500.0
+        ],
+        [
+            "Just about to lose my mind",
+            500.0
+        ],
+        [
+            "I was goin' to Arizona",
+            500.0
+        ],
+        [
+            "Maybe on to California",
+            500.0
+        ],
+        [
+            "Where people all live so fine",
+            500.0
+        ],
+        [
+            "My mama says I'm crazy",
+            500.0
+        ],
+        [
+            "My baby calls me lazy",
+            500.0
+        ],
+        [
+            "But I'm gonna show 'em all this time",
+            500.0
+        ],
+        [
+            "'Cause you know I ain't no foolin'",
+            500.0
+        ],
+        [
+            "And I don't need no more schoolin'",
+            500.0
+        ],
+        [
+            "I was born to just walk the line",
+            500.0
+        ],
+        [
+            "Livin' on Tulsa time",
+            500.0
+        ],
+        [
+            "Livin' on Tulsa time",
+            500.0
+        ],
+        [
+            "I'll set my watch back to it",
+            500.0
+        ],
+        [
+            "Cause you know that I've been through it",
+            500.0
+        ],
+        [
+            "Livin' on Tulsa Time",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "Well there I was in Hollywood",
+            500.0
+        ],
+        [
+            "Thinkin' I was doin' good",
+            500.0
+        ],
+        [
+            "Talkin' on the telephone line",
+            500.0
+        ],
+        [
+            "They don't want me in the movies",
+            500.0
+        ],
+        [
+            "And nobody sings my songs",
+            500.0
+        ],
+        [
+            "My momma says my baby's doin' fine",
+            500.0
+        ],
+        [
+            "Well, then I got to thinkin'",
+            500.0
+        ],
+        [
+            "Man I'm really sinkin'",
+            500.0
+        ],
+        [
+            "And I really had a flash this time",
+            500.0
+        ],
+        [
+            "I had no business leavin'",
+            500.0
+        ],
+        [
+            "And nobody would be grievin'",
+            500.0
+        ],
+        [
+            "You see I'm on Tulsa time",
+            500.0
+        ],
+        [
+            "Livin' on Tulsa time",
+            500.0
+        ],
+        [
+            "Livin' on Tulsa time",
+            500.0
+        ],
+        [
+            "Gonna set my watch back to it",
+            500.0
+        ],
+        [
+            "Cause you know that I been through it",
+            500.0
+        ],
+        [
+            "Livin' on Tulsa time",
+            500.0
+        ],
+        [
+            "Livin' on Tulsa time",
+            500.0
+        ],
+        [
+            "Livin' on Tulsa time",
+            500.0
+        ],
+        [
+            "Gonna set my watch back to it",
+            500.0
+        ],
+        [
+            "Cause you know that I've been through it",
+            500.0
+        ],
+        [
+            "Livin' on Tulsa time",
+            500.0
+        ]
     ],
     "The Worst Is Yet to Come": [
-        "Woke up this mornin', wrong side of the bed",
-        "Had a heavenly night, (you know) I'm feelin' it in MY head",
-        "Lord have mercy (pause)",
-        "and the day ain't even begun  ",
-        "Well, I got a bad, bad feelin'",
-        "That the worst, is yet, to, come",
-        "Didn't get no breakfast, didn't get no lunch",
-        "But I did get two weeks notice, they gonna BLOW the factory up",
-        "Lord have mercy (pause)",
-        "and the DAY ain't even done     (whoa yeah)",
-        "Well, I got a bad, bad feeling,",
-        "That the worst, is yet, to, come",
-        "Drivin' in my car, headin' on down the road",
-        "Looked in the rear view mirror, nothin' but a trail of black smoke",
-        "Lord have mercy,  (pause)",
-        "LORD what have I done?",
-        "Well, I got a bad, bad feelin'",
-        "That the worst, is yet, to, come",
-        "Now, the sun keeps on shining (pause)",
-        "just like it shooould?   (yah)",
-        "When I TAKE a look around me (pause)",
-        "I guess I'm doin' pretty gooood",
-        "",
-        "Got back to my house, open up the door",
-        "She took everything I had, ",
-        "and the dog took a shit on the floor",
-        "Lord have mercy,  emm",
-        "even the BEDbugs up 'n' run (pause)",
-        "You know, I've got a bad, bad feelin'",
-        "That the worst, is yet, to, come",
-        "Well, I got a bad, bad feelin'",
-        "That the worst, is yet, to, come",
-        "Well, well, well, well (pause)",
-        "No tellin' whats comin' (pause)",
-        "Got the right mind - set (pause)",
-        "Lookin' for a paycheck (pause)",
-        "That's right"
+        [
+            "Woke up this mornin', wrong side of the bed",
+            500.0
+        ],
+        [
+            "Had a heavenly night, (you know) I'm feelin' it in MY head",
+            500.0
+        ],
+        [
+            "Lord have mercy (pause)",
+            500.0
+        ],
+        [
+            "and the day ain't even begun  ",
+            500.0
+        ],
+        [
+            "Well, I got a bad, bad feelin'",
+            500.0
+        ],
+        [
+            "That the worst, is yet, to, come",
+            500.0
+        ],
+        [
+            "Didn't get no breakfast, didn't get no lunch",
+            500.0
+        ],
+        [
+            "But I did get two weeks notice, they gonna BLOW the factory up",
+            500.0
+        ],
+        [
+            "Lord have mercy (pause)",
+            500.0
+        ],
+        [
+            "and the DAY ain't even done     (whoa yeah)",
+            500.0
+        ],
+        [
+            "Well, I got a bad, bad feeling,",
+            500.0
+        ],
+        [
+            "That the worst, is yet, to, come",
+            500.0
+        ],
+        [
+            "Drivin' in my car, headin' on down the road",
+            500.0
+        ],
+        [
+            "Looked in the rear view mirror, nothin' but a trail of black smoke",
+            500.0
+        ],
+        [
+            "Lord have mercy,  (pause)",
+            500.0
+        ],
+        [
+            "LORD what have I done?",
+            500.0
+        ],
+        [
+            "Well, I got a bad, bad feelin'",
+            500.0
+        ],
+        [
+            "That the worst, is yet, to, come",
+            500.0
+        ],
+        [
+            "Now, the sun keeps on shining (pause)",
+            500.0
+        ],
+        [
+            "just like it shooould?   (yah)",
+            500.0
+        ],
+        [
+            "When I TAKE a look around me (pause)",
+            500.0
+        ],
+        [
+            "I guess I'm doin' pretty gooood",
+            500.0
+        ],
+        [
+            "x 4",
+            500.0
+        ],
+        [
+            "Got back to my house, open up the door",
+            500.0
+        ],
+        [
+            "She took everything I had, ",
+            500.0
+        ],
+        [
+            "and the dog took a shit on the floor",
+            500.0
+        ],
+        [
+            "Lord have mercy,  emm",
+            500.0
+        ],
+        [
+            "even the BEDbugs up 'n' run (pause)",
+            500.0
+        ],
+        [
+            "You know, I've got a bad, bad feelin'",
+            500.0
+        ],
+        [
+            "That the worst, is yet, to, come",
+            500.0
+        ],
+        [
+            "Well, I got a bad, bad feelin'",
+            500.0
+        ],
+        [
+            "That the worst, is yet, to, come",
+            500.0
+        ],
+        [
+            "Well, well, well, well (pause)",
+            500.0
+        ],
+        [
+            "No tellin' whats comin' (pause)",
+            500.0
+        ],
+        [
+            "Got the right mind - set (pause)",
+            500.0
+        ],
+        [
+            "Lookin' for a paycheck (pause)",
+            500.0
+        ],
+        [
+            "That's right",
+            500.0
+        ]
     ],
     "Takin' Care of Business": [
-        "You get up every morning from a long clock's warning",
-        "Take the 8:15 into the city",
-        "There's a whistle up above and people pushin', people shovin'",
-        "And the girls who try to look pretty",
-        "And if your train's on time, you can get to work by 9",
-        "And start your slaving job to get your pay",
-        "If you ever get annoyed, look at me I'm self-employed",
-        "I love to work at nothing all day",
-        "And I'll be taking care of business (every day)",
-        "Taking care of business (every way)",
-        "I've been taking care of business (it's all mine)",
-        "Taking care of business and working overtime, work out",
-        "",
-        "If it were easy as fishin' you could be a musician",
-        "If you could make sounds loud or mellow",
-        "Get a second-hand guitar, chances are you'll go far",
-        "If you get in with the right kinds of fellows",
-        "People see you having fun just a-lying in the sun",
-        "Tell them that you like it this way",
-        "It's the work that we avoid, and we're all self-employed",
-        "We love to work at nothing all day",
-        "And we be taking care of business (every day)",
-        "Taking care of business (every way)",
-        "We be been taking care of business (it's all mine)",
-        "Taking care of business and working overtime",
-        "",
-        "Whoo",
-        "All right",
-        "",
-        "Take good care of my business",
-        "When I'm away, every day",
-        "Whoo",
-        "",
-        "They get up every morning from a long clock's warning",
-        "Take the 8:15 into the city",
-        "There's a whistle up above and people pushin', people shovin'",
-        "And the girls who try to look pretty",
-        "And if your train's on time, you can get to work by 9",
-        "And start your slaving job to get your pay",
-        "If you ever get annoyed, look at me I'm self-employed",
-        "I love to work at nothing all day",
-        "And I be taking care of business (every day)",
-        "Taking care of business (every way)",
-        "I've been taking care of business (it's all mine)",
-        "Taking care of business and working overtime, take care",
-        "",
-        "Takin' care of business, whoo",
-        "Takin' care of business",
-        "Takin' care of business",
-        "Takin' care of business",
-        "Takin' care of business (every day)",
-        "Takin' care of business (every way)",
-        "Takin' care of business (it's all mine)",
-        "Takin' care of business and working overtime, whoo",
-        "Takin' care of business",
-        "Takin' care of business",
-        "We be takin' care of business",
-        "We be takin' care of business      whoo",
-        "Takin' care of business",
-        "Takin' care of business",
-        "Takin' care of business"
+        [
+            "x 4",
+            500.0
+        ],
+        [
+            "You get up every morning from a long clock's warning",
+            500.0
+        ],
+        [
+            "Take the 8:15 into the city",
+            500.0
+        ],
+        [
+            "There's a whistle up above and people pushin', people shovin'",
+            500.0
+        ],
+        [
+            "And the girls who try to look pretty",
+            500.0
+        ],
+        [
+            "And if your train's on time, you can get to work by 9",
+            500.0
+        ],
+        [
+            "And start your slaving job to get your pay",
+            500.0
+        ],
+        [
+            "If you ever get annoyed, look at me I'm self-employed",
+            500.0
+        ],
+        [
+            "I love to work at nothing all day",
+            500.0
+        ],
+        [
+            "And I'll be taking care of business (every day)",
+            500.0
+        ],
+        [
+            "Taking care of business (every way)",
+            500.0
+        ],
+        [
+            "I've been taking care of business (it's all mine)",
+            500.0
+        ],
+        [
+            "Taking care of business and working overtime, work out",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "If it were easy as fishin' you could be a musician",
+            500.0
+        ],
+        [
+            "If you could make sounds loud or mellow",
+            500.0
+        ],
+        [
+            "Get a second-hand guitar, chances are you'll go far",
+            500.0
+        ],
+        [
+            "If you get in with the right kinds of fellows",
+            500.0
+        ],
+        [
+            "People see you having fun just a-lying in the sun",
+            500.0
+        ],
+        [
+            "Tell them that you like it this way",
+            500.0
+        ],
+        [
+            "It's the work that we avoid, and we're all self-employed",
+            500.0
+        ],
+        [
+            "We love to work at nothing all day",
+            500.0
+        ],
+        [
+            "And we be taking care of business (every day)",
+            500.0
+        ],
+        [
+            "Taking care of business (every way)",
+            500.0
+        ],
+        [
+            "We be been taking care of business (it's all mine)",
+            500.0
+        ],
+        [
+            "Taking care of business and working overtime",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "Whoo",
+            500.0
+        ],
+        [
+            "All right",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "Take good care of my business",
+            500.0
+        ],
+        [
+            "When I'm away, every day",
+            500.0
+        ],
+        [
+            "Whoo",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "They get up every morning from a long clock's warning",
+            500.0
+        ],
+        [
+            "Take the 8:15 into the city",
+            500.0
+        ],
+        [
+            "There's a whistle up above and people pushin', people shovin'",
+            500.0
+        ],
+        [
+            "And the girls who try to look pretty",
+            500.0
+        ],
+        [
+            "And if your train's on time, you can get to work by 9",
+            500.0
+        ],
+        [
+            "And start your slaving job to get your pay",
+            500.0
+        ],
+        [
+            "If you ever get annoyed, look at me I'm self-employed",
+            500.0
+        ],
+        [
+            "I love to work at nothing all day",
+            500.0
+        ],
+        [
+            "And I be taking care of business (every day)",
+            500.0
+        ],
+        [
+            "Taking care of business (every way)",
+            500.0
+        ],
+        [
+            "I've been taking care of business (it's all mine)",
+            500.0
+        ],
+        [
+            "Taking care of business and working overtime, take care",
+            500.0
+        ],
+        [
+            "x 1",
+            500.0
+        ],
+        [
+            "Takin' care of business, whoo",
+            500.0
+        ],
+        [
+            "Takin' care of business",
+            500.0
+        ],
+        [
+            "Takin' care of business",
+            500.0
+        ],
+        [
+            "Takin' care of business",
+            500.0
+        ],
+        [
+            "Takin' care of business (every day)",
+            500.0
+        ],
+        [
+            "Takin' care of business (every way)",
+            500.0
+        ],
+        [
+            "Takin' care of business (it's all mine)",
+            500.0
+        ],
+        [
+            "Takin' care of business and working overtime, whoo",
+            500.0
+        ],
+        [
+            "Takin' care of business",
+            500.0
+        ],
+        [
+            "Takin' care of business",
+            500.0
+        ],
+        [
+            "We be takin' care of business",
+            500.0
+        ],
+        [
+            "We be takin' care of business      whoo",
+            500.0
+        ],
+        [
+            "Takin' care of business",
+            500.0
+        ],
+        [
+            "Takin' care of business",
+            500.0
+        ],
+        [
+            "Takin' care of business",
+            500.0
+        ]
     ],
     "Rockin' In the USA": [
-        "They come from the cities and they come from the smaller towns",
-        "Beat up cars with guitars and drummers goin' crack, boom, bam",
-        "R O C K in the U.S.A.",
-        "R O C K in the U.S.A.",
-        "R O C K in the U.S.A.,  yeah  yeaahhhh",
-        "Rockin' in the U.S.A.",
-        "Well they said goodbye to their families said goodbye to their friends",
-        "With the pipe dreams in their heads and very little money in their hands",
-        "Some are black and some are white",
-        "Ain't to proud to sleep on your floor tonight",
-        "With blind faith in Jesus you know that they just might",
-        "Rockin' in the U.S.A.,  Hey!",
-        "",
-        "Voices from nowhere and voices from the larger town",
-        "Filled our head full of dreams and turned our world upside down",
-        "There was  Frankie Lyman,   Bobby Fuller,   Mitch Ryder",
-        "(They were rockin')",
-        "Jackie Wilson  - Shangri Las -  Young Rascals",
-        "(They were rockin')",
-        "Spotlight on Martha Reeves",
-        "And don't forget James Brown",
-        "Rockin' in the U.S.A.,  Hey!",
-        "R O C K in the U.S.A.",
-        "R O C K in the U.S.A.",
-        "R O C K in the U.S.A.",
-        "R O C K in the U.S.A.",
-        "R O C K in the U.S.A.",
-        "R O C K in the U.S.A.",
-        "R O C K in the U.S.A.",
-        "R O C K in the U.S.A.",
-        "R O C K in the U.S.A.",
-        "R O C K in the U.S.A.",
-        "R O C K in the U.S.A.",
-        "R O C K in the U.S.A."
+        [
+            "x 4",
+            500.0
+        ],
+        [
+            "They come from the cities and they come from the smaller towns",
+            500.0
+        ],
+        [
+            "Beat up cars with guitars and drummers goin' crack, boom, bam",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.,  yeah  yeaahhhh",
+            500.0
+        ],
+        [
+            "Rockin' in the U.S.A.",
+            500.0
+        ],
+        [
+            "Well they said goodbye to their families said goodbye to their friends",
+            500.0
+        ],
+        [
+            "With the pipe dreams in their heads and very little money in their hands",
+            500.0
+        ],
+        [
+            "Some are black and some are white",
+            500.0
+        ],
+        [
+            "Ain't to proud to sleep on your floor tonight",
+            500.0
+        ],
+        [
+            "With blind faith in Jesus you know that they just might",
+            500.0
+        ],
+        [
+            "Rockin' in the U.S.A.,  Hey!",
+            500.0
+        ],
+        [
+            "x 4",
+            500.0
+        ],
+        [
+            "Voices from nowhere and voices from the larger town",
+            500.0
+        ],
+        [
+            "Filled our head full of dreams and turned our world upside down",
+            500.0
+        ],
+        [
+            "There was  Frankie Lyman,   Bobby Fuller,   Mitch Ryder",
+            500.0
+        ],
+        [
+            "(They were rockin')",
+            500.0
+        ],
+        [
+            "Jackie Wilson  - Shangri Las -  Young Rascals",
+            500.0
+        ],
+        [
+            "(They were rockin')",
+            500.0
+        ],
+        [
+            "Spotlight on Martha Reeves",
+            500.0
+        ],
+        [
+            "And don't forget James Brown",
+            500.0
+        ],
+        [
+            "Rockin' in the U.S.A.,  Hey!",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.",
+            500.0
+        ],
+        [
+            "R O C K in the U.S.A.",
+            500.0
+        ],
+        [
+            "",
+            500.0
+        ]
     ],
     "Memphis In the Meantime": [
-        "Hmm I got something to say little girl",
-        "You might not like my style",
-        "But we've been hanging around this town",
-        "Just a little too long a-while",
-        "You say you're gonna get your act together",
-        "Gonna take it out on the road",
-        "But if I don't get outta HERE pretty soon",
-        "My head's going to explode",
-        "Sure, I like country muuuuuuusic",
-        "I like mandoliiiins",
-        "But right now I need a Telecaster through a Vibro-Lux turned up to teeeeeheennnn",
-        "Lets go to Memphis in the meantime baby",
-        "Memphis in the meantime guarl",
-        "Need a little shot of that rhythm baby",
-        "Mixed up with these country blues",
-        "I want to trade in these 'ol cowboy boots",
-        "For some fine italian shoes",
-        "Forget the mousse and the hairspray sugar",
-        "We don't need none of THAAAT",
-        "Aw a little dab'll do ya girl",
-        "Underneath a pork pie hat",
-        "Until hell freezes over",
-        "Maybe you can wait that looooong",
-        "But I don't think Ronnie Milsap's gonna ever record this soooooooong",
-        "Lets go to Memphis in the meantime baby",
-        "Let's go to Memphis in the meantime guarl",
-        "Lets go to Memphis in the meantime baby",
-        "Let's go to Memphis in the meantime guarl",
-        "Maybe there's nothin' happenin' there",
-        "Maybe there's somethin' in the AAAAIIIIIIR",
-        "Before our upper lips get stiff    (up)",
-        "Maybe we need us a big ol whiiiiff    (up)   well",
-        "If we could just get off-a that beat little girl",
-        "Maybe we could find the groove",
-        "At least we can get ourselves a decent meal",
-        "Down at the Rendez-vous",
-        "'Cause one more heartfelt steel guitar chord",
-        "Girl, it's gonna do me EEEN",
-        "I need to hear some trumpet and saxophone",
-        "You know sound as sweet as SIN",
-        "And after we get good and greazy",
-        "Baby we can come back home",
-        "Put the cowhorns back on the cadillac",
-        "And change the message on the cord-a-phoooooooone",
-        "Lets go to Memphis in the meantime baby",
-        "Let's go to Memphis in the meantime guarl",
-        "Lets go to Memphis in the meantime baby",
-        "Let's go to Memphis in the meantime guarl",
-        "Talkin' bout Mem",
-        "phis",
-        "A Haw haw haw",
-        "A Haw haw aHaw",
-        "Talkin' bout Mem",
-        "phis"
+        [
+            "x 4",
+            500.0
+        ],
+        [
+            "Hmm I got something to say little girl",
+            500.0
+        ],
+        [
+            "You might not like my style",
+            500.0
+        ],
+        [
+            "But we've been hanging around this town",
+            500.0
+        ],
+        [
+            "Just a little too long a-while",
+            500.0
+        ],
+        [
+            "You say you're gonna get your act together",
+            500.0
+        ],
+        [
+            "Gonna take it out on the road",
+            500.0
+        ],
+        [
+            "But if I don't get outta HERE pretty soon",
+            500.0
+        ],
+        [
+            "My head's going to explode",
+            500.0
+        ],
+        [
+            "Sure, I like country muuuuuuusic",
+            500.0
+        ],
+        [
+            "I like mandoliiiins",
+            500.0
+        ],
+        [
+            "But right now I need a Telecaster through a Vibro-Lux turned up to teeeeeheennnn",
+            500.0
+        ],
+        [
+            "",
+            500.0
+        ],
+        [
+            "Lets go to Memphis in the meantime baby",
+            500.0
+        ],
+        [
+            "Memphis in the meantime guarl",
+            500.0
+        ],
+        [
+            "",
+            500.0
+        ],
+        [
+            "Need a little shot of that rhythm baby",
+            500.0
+        ],
+        [
+            "Mixed up with these country blues",
+            500.0
+        ],
+        [
+            "I want to trade in these 'ol cowboy boots",
+            500.0
+        ],
+        [
+            "For some fine italian shoes",
+            500.0
+        ],
+        [
+            "Forget the mousse and the hairspray sugar",
+            500.0
+        ],
+        [
+            "We don't need none of THAAAT",
+            500.0
+        ],
+        [
+            "Aw a little dab'll do ya girl",
+            500.0
+        ],
+        [
+            "Underneath a pork pie hat",
+            500.0
+        ],
+        [
+            "Until hell freezes over",
+            500.0
+        ],
+        [
+            "Maybe you can wait that looooong",
+            500.0
+        ],
+        [
+            "But I don't think Ronnie Milsap's gonna ever record this soooooooong",
+            500.0
+        ],
+        [
+            "",
+            500.0
+        ],
+        [
+            "Lets go to Memphis in the meantime baby",
+            500.0
+        ],
+        [
+            "Let's go to Memphis in the meantime guarl",
+            500.0
+        ],
+        [
+            "Lets go to Memphis in the meantime baby",
+            500.0
+        ],
+        [
+            "Let's go to Memphis in the meantime guarl",
+            500.0
+        ],
+        [
+            "",
+            500.0
+        ],
+        [
+            "Maybe there's nothin' happenin' there",
+            500.0
+        ],
+        [
+            "Maybe there's somethin' in the AAAAIIIIIIR",
+            500.0
+        ],
+        [
+            "Before our upper lips get stiff    (up)",
+            500.0
+        ],
+        [
+            "Maybe we need us a big ol whiiiiff    (up)   well",
+            500.0
+        ],
+        [
+            "",
+            500.0
+        ],
+        [
+            "If we could just get off-a that beat little girl",
+            500.0
+        ],
+        [
+            "Maybe we could find the groove",
+            500.0
+        ],
+        [
+            "At least we can get ourselves a decent meal",
+            500.0
+        ],
+        [
+            "Down at the Rendez-vous",
+            500.0
+        ],
+        [
+            "'Cause one more heartfelt steel guitar chord",
+            500.0
+        ],
+        [
+            "Girl, it's gonna do me EEEN",
+            500.0
+        ],
+        [
+            "I need to hear some trumpet and saxophone",
+            500.0
+        ],
+        [
+            "You know sound as sweet as SIN",
+            500.0
+        ],
+        [
+            "And after we get good and greazy",
+            500.0
+        ],
+        [
+            "Baby we can come back home",
+            500.0
+        ],
+        [
+            "Put the cowhorns back on the cadillac",
+            500.0
+        ],
+        [
+            "And change the message on the cord-a-phoooooooone",
+            500.0
+        ],
+        [
+            "Lets go to Memphis in the meantime baby",
+            500.0
+        ],
+        [
+            "Let's go to Memphis in the meantime guarl",
+            500.0
+        ],
+        [
+            "Lets go to Memphis in the meantime baby",
+            500.0
+        ],
+        [
+            "Let's go to Memphis in the meantime guarl",
+            500.0
+        ],
+        [
+            "Talkin' bout Mem",
+            500.0
+        ],
+        [
+            "phis",
+            500.0
+        ],
+        [
+            "A Haw haw haw",
+            500.0
+        ],
+        [
+            "A Haw haw aHaw",
+            500.0
+        ],
+        [
+            "Talkin' bout Mem",
+            500.0
+        ],
+        [
+            "phis",
+            500.0
+        ]
     ],
     "Stuck In the Middle With You": [
-        "Well I don't know why I came here tonight",
-        "I've got the feeling that something ain't right",
-        "I'm so scared in case I fall off my chair",
-        "And I'm wondering how I'll get down the stairs",
-        "Clowns to the left of me",
-        "Jokers to the right",
-        "Here I am stuck in the middle with you",
-        "Yes I'm stuck in the middle with you",
-        "And I'm wondering what it IS I should do",
-        "It's so hard to keep this smile from my face",
-        "Losing control and I'm all over the place",
-        "Clowns to the left of me",
-        "Jokers to the right",
-        "Here I am stuck in the middle with you",
-        "Well you started off with nothing",
-        "And you're proud you are a self-made man",
-        "And your friends they all come crawling",
-        "Slap you on the back and say",
-        "Please . . .",
-        "Please . . .",
-        "Well I'm trying to make some sense of it all",
-        "But I can see it makes NO sense at all",
-        "Is it COOL to go to sleep on the floor?",
-        "I don't think that I can TAKE anymore",
-        "Clowns to the left of me",
-        "Jokers to the right",
-        "Here I am stuck in the middle with you",
-        "",
-        "Well you started off with nothing",
-        "And you're proud you are a self-made man",
-        "And your friends they all come crawling",
-        "Slap you on the back and say",
-        "Please . . .",
-        "Please . . .",
-        "Well I don't know why I came here tonight",
-        "I've got the feeling that SOMEthing ain't right",
-        "I'm so SCARED in case I fall off my CHAIR",
-        "And I'm wondering how I'll GET down the stairs",
-        "Clowns to the left of me",
-        "Jokers to the right",
-        "Here I am stuck in the middle with you.",
-        "Yes there's clowns to the left of me",
-        "JOKERS to the right",
-        "Stuck in the middle with you . . .",
-        "Stuck in the middle with you . . .",
-        "Stuck in the middle with you . . .",
-        "Stuck in the middle with you . . .",
-        "Stuck in the middle with you . . .",
-        "Stuck in the middle with you . . .",
-        "Stuck in the middle with you . . .",
-        "Stuck in the middle with you . . .",
-        "one more",
-        "Stuck in the middle with you . . .    (up)"
+        [
+            "Well I don't know why I came here tonight",
+            500.0
+        ],
+        [
+            "I've got the feeling that something ain't right",
+            500.0
+        ],
+        [
+            "I'm so scared in case I fall off my chair",
+            500.0
+        ],
+        [
+            "And I'm wondering how I'll get down the stairs",
+            500.0
+        ],
+        [
+            "Clowns to the left of me",
+            500.0
+        ],
+        [
+            "Jokers to the right",
+            500.0
+        ],
+        [
+            "Here I am stuck in the middle with you",
+            500.0
+        ],
+        [
+            "Yes I'm stuck in the middle with you",
+            500.0
+        ],
+        [
+            "And I'm wondering what it IS I should do",
+            500.0
+        ],
+        [
+            "It's so hard to keep this smile from my face",
+            500.0
+        ],
+        [
+            "Losing control and I'm all over the place",
+            500.0
+        ],
+        [
+            "Clowns to the left of me",
+            500.0
+        ],
+        [
+            "Jokers to the right",
+            500.0
+        ],
+        [
+            "Here I am stuck in the middle with you",
+            500.0
+        ],
+        [
+            "Well you started off with nothing",
+            500.0
+        ],
+        [
+            "And you're proud you are a self-made man",
+            500.0
+        ],
+        [
+            "And your friends they all come crawling",
+            500.0
+        ],
+        [
+            "Slap you on the back and say",
+            500.0
+        ],
+        [
+            "Please . . .",
+            500.0
+        ],
+        [
+            "Please . . .",
+            500.0
+        ],
+        [
+            "Well I'm trying to make some sense of it all",
+            500.0
+        ],
+        [
+            "But I can see it makes NO sense at all",
+            500.0
+        ],
+        [
+            "Is it COOL to go to sleep on the floor?",
+            500.0
+        ],
+        [
+            "I don't think that I can TAKE anymore",
+            500.0
+        ],
+        [
+            "Clowns to the left of me",
+            500.0
+        ],
+        [
+            "Jokers to the right",
+            500.0
+        ],
+        [
+            "Here I am stuck in the middle with you",
+            500.0
+        ],
+        [
+            "x 4",
+            500.0
+        ],
+        [
+            "Well you started off with nothing",
+            500.0
+        ],
+        [
+            "And you're proud you are a self-made man",
+            500.0
+        ],
+        [
+            "And your friends they all come crawling",
+            500.0
+        ],
+        [
+            "Slap you on the back and say",
+            500.0
+        ],
+        [
+            "Please . . .",
+            500.0
+        ],
+        [
+            "Please . . .",
+            500.0
+        ],
+        [
+            "Well I don't know why I came here tonight",
+            500.0
+        ],
+        [
+            "I've got the feeling that SOMEthing ain't right",
+            500.0
+        ],
+        [
+            "I'm so SCARED in case I fall off my CHAIR",
+            500.0
+        ],
+        [
+            "And I'm wondering how I'll GET down the stairs",
+            500.0
+        ],
+        [
+            "Clowns to the left of me",
+            500.0
+        ],
+        [
+            "Jokers to the right",
+            500.0
+        ],
+        [
+            "Here I am stuck in the middle with you.",
+            500.0
+        ],
+        [
+            "Yes there's clowns to the left of me",
+            500.0
+        ],
+        [
+            "JOKERS to the right",
+            500.0
+        ],
+        [
+            "Stuck in the middle with you . . .",
+            500.0
+        ],
+        [
+            "Stuck in the middle with you . . .",
+            500.0
+        ],
+        [
+            "Stuck in the middle with you . . .",
+            500.0
+        ],
+        [
+            "Stuck in the middle with you . . .",
+            500.0
+        ],
+        [
+            "Stuck in the middle with you . . .",
+            500.0
+        ],
+        [
+            "Stuck in the middle with you . . .",
+            500.0
+        ],
+        [
+            "Stuck in the middle with you . . .",
+            500.0
+        ],
+        [
+            "Stuck in the middle with you . . .",
+            500.0
+        ],
+        [
+            "",
+            500.0
+        ],
+        [
+            "one more",
+            500.0
+        ],
+        [
+            "Stuck in the middle with you . . .    (up)",
+            500.0
+        ]
     ],
     "Honky Tonk Woman": [
-        "I met a, gin-soaked bar-room queen in Memphis",
-        "She tried to take me upstairs for a ride",
-        "She had to heave me right across shoulder",
-        "Cause I just can't seem to, drink you off my mind  (hey)",
-        "It's the honky tonk women   (yeah)",
-        "That gimme, gimme, gimme the honky tonk blues",
-        "I laid a, divorcée in New York City",
-        "I had to^, put up some kind of a fight",
-        "The lady, then she covered me in roses",
-        "She blew my nose and, then she blew my mind   (hey)",
-        "It's the honky tonk women",
-        "That gimme, gimme, gimme the honky tonk blues",
-        "Yeah, Allllll right",
-        "",
-        "It's the honky tonk women",
-        "That gimme, gimme, gimme the honky tonk blues",
-        "It's the honky tonk women",
-        "That gimme, gimme, gimme the honky tonk blues"
+        [
+            "I met a, gin-soaked bar-room queen in Memphis",
+            500.0
+        ],
+        [
+            "She tried to take me upstairs for a ride",
+            500.0
+        ],
+        [
+            "She had to heave me right across shoulder",
+            500.0
+        ],
+        [
+            "Cause I just can't seem to, drink you off my mind  (hey)",
+            500.0
+        ],
+        [
+            "It's the honky tonk women   (yeah)",
+            500.0
+        ],
+        [
+            "That gimme, gimme, gimme the honky tonk blues",
+            500.0
+        ],
+        [
+            "I laid a, divorcée in New York City",
+            500.0
+        ],
+        [
+            "I had to^, put up some kind of a fight",
+            500.0
+        ],
+        [
+            "The lady, then she covered me in roses",
+            500.0
+        ],
+        [
+            "She blew my nose and, then she blew my mind   (hey)",
+            500.0
+        ],
+        [
+            "It's the honky tonk women",
+            500.0
+        ],
+        [
+            "That gimme, gimme, gimme the honky tonk blues",
+            500.0
+        ],
+        [
+            "Yeah, Allllll right",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "It's the honky tonk women",
+            500.0
+        ],
+        [
+            "That gimme, gimme, gimme the honky tonk blues",
+            500.0
+        ],
+        [
+            "It's the honky tonk women",
+            500.0
+        ],
+        [
+            "That gimme, gimme, gimme the honky tonk blues",
+            500.0
+        ]
     ],
     "Tore Down": [
-        "I'm tore down  - I'm almost level with the ground?",
-        "I'm tore down  - I'm almost level with the ground?",
-        "^Well^  I feel like this when my, BABY can't be fo-und.",
-        "I went to the river - to jump in?",
-        "My BABY showed up and said, \"I WILL tell you when!\"",
-        "Well I'm tore down  - I'm almost level with the ground?",
-        "^Well^  I feel like this when my, BABY can't be fo-und.",
-        "I love you babe with all my, heart and soul?",
-        "Love like mine will, never grow old",
-        "Love you in the morning and in the, evening too?",
-        "EVERY time you leave me I get MAD with you.",
-        "Well I'm tore down  - I'm almost level with the ground?",
-        "^Well^  I feel like this when my, BABY can't be fo-und.",
-        "",
-        "Love you baby with, all my might?",
-        "Love like mine is, out of sight.",
-        "I'll lie for you, if ya, want me to?",
-        "I REALLY don't believe that your LOVE is true!",
-        "Well I'm tore down  - I'm almost level with the ground?",
-        "^Well^  I feel like this when my, BABY can't be fo-und.",
-        "I'm tore down  - I'm almost level with the ground?",
-        "I'm tore down  - I'm almost level with the ground?",
-        "^Well^  I feel like this when my, BABY can't be fo-und."
+        [
+            "I'm tore down  - I'm almost level with the ground?",
+            500.0
+        ],
+        [
+            "I'm tore down  - I'm almost level with the ground?",
+            500.0
+        ],
+        [
+            "^Well^  I feel like this when my, BABY can't be fo-und.",
+            500.0
+        ],
+        [
+            "I went to the river - to jump in?",
+            500.0
+        ],
+        [
+            "My BABY showed up and said, \"I WILL tell you when!\"",
+            500.0
+        ],
+        [
+            "Well I'm tore down  - I'm almost level with the ground?",
+            500.0
+        ],
+        [
+            "^Well^  I feel like this when my, BABY can't be fo-und.",
+            500.0
+        ],
+        [
+            "I love you babe with all my, heart and soul?",
+            500.0
+        ],
+        [
+            "Love like mine will, never grow old",
+            500.0
+        ],
+        [
+            "Love you in the morning and in the, evening too?",
+            500.0
+        ],
+        [
+            "EVERY time you leave me I get MAD with you.",
+            500.0
+        ],
+        [
+            "Well I'm tore down  - I'm almost level with the ground?",
+            500.0
+        ],
+        [
+            "^Well^  I feel like this when my, BABY can't be fo-und.",
+            500.0
+        ],
+        [
+            "x 4",
+            500.0
+        ],
+        [
+            "Love you baby with, all my might?",
+            500.0
+        ],
+        [
+            "Love like mine is, out of sight.",
+            500.0
+        ],
+        [
+            "I'll lie for you, if ya, want me to?",
+            500.0
+        ],
+        [
+            "I REALLY don't believe that your LOVE is true!",
+            500.0
+        ],
+        [
+            "Well I'm tore down  - I'm almost level with the ground?",
+            500.0
+        ],
+        [
+            "^Well^  I feel like this when my, BABY can't be fo-und.",
+            500.0
+        ],
+        [
+            "I'm tore down  - I'm almost level with the ground?",
+            500.0
+        ],
+        [
+            "I'm tore down  - I'm almost level with the ground?",
+            500.0
+        ],
+        [
+            "^Well^  I feel like this when my, BABY can't be fo-und.",
+            500.0
+        ]
     ],
     "Why My Guitar Gently Weeps": [
-        "I look at you all",
-        "See the love there that's sleeping",
-        "While my guitar gently weeps",
-        "I look at the floor",
-        "And I see it needs sweeping ",
-        "But still my guitar gently weeeeaaps  (up)",
-        "I don't know why, nobody told you",
-        "How to unfold your love",
-        "I don't know how, someone controlled you",
-        "They bought and sold you",
-        "I look at the world",
-        "And I notice it's turning",
-        "While my guitar gently weeps",
-        "With every mistake",
-        "We must surely be learning",
-        "Still my guitar gently weeps  (up)  (up)",
-        "",
-        "I don't know how, you were diverted",
-        "You were, perverted too",
-        "I don't know how, you were inverted",
-        "No one   alerted you",
-        "(And but I know) I look at you all",
-        "See the love there that's sleeping",
-        "While my guitar gently weeps",
-        "And I, look at you ALL  LL LL LL  LL   (pause)",
-        "Yes but, still my guitar gently weeps  (up)   (up)",
-        "Riff x 1",
-        "Still my guitar gently weeps",
-        "Keeps on ",
-        "Keeps on ",
-        "Whoa whoa whoa whoa",
-        "Keep on ",
-        "Keep on ",
-        "Yeah  yeah  yeah"
+        [
+            "I look at you all",
+            500.0
+        ],
+        [
+            "See the love there that's sleeping",
+            500.0
+        ],
+        [
+            "While my guitar gently weeps",
+            500.0
+        ],
+        [
+            "I look at the floor",
+            500.0
+        ],
+        [
+            "And I see it needs sweeping ",
+            500.0
+        ],
+        [
+            "But still my guitar gently weeeeaaps  (up)",
+            500.0
+        ],
+        [
+            "I don't know why, nobody told you",
+            500.0
+        ],
+        [
+            "How to unfold your love",
+            500.0
+        ],
+        [
+            "I don't know how, someone controlled you",
+            500.0
+        ],
+        [
+            "They bought and sold you",
+            500.0
+        ],
+        [
+            "I look at the world",
+            500.0
+        ],
+        [
+            "And I notice it's turning",
+            500.0
+        ],
+        [
+            "While my guitar gently weeps",
+            500.0
+        ],
+        [
+            "With every mistake",
+            500.0
+        ],
+        [
+            "We must surely be learning",
+            500.0
+        ],
+        [
+            "Still my guitar gently weeps  (up)  (up)",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "I don't know how, you were diverted",
+            500.0
+        ],
+        [
+            "You were, perverted too",
+            500.0
+        ],
+        [
+            "I don't know how, you were inverted",
+            500.0
+        ],
+        [
+            "No one   alerted you",
+            500.0
+        ],
+        [
+            "(And but I know) I look at you all",
+            500.0
+        ],
+        [
+            "See the love there that's sleeping",
+            500.0
+        ],
+        [
+            "While my guitar gently weeps",
+            500.0
+        ],
+        [
+            "And I, look at you ALL  LL LL LL  LL   (pause)",
+            500.0
+        ],
+        [
+            "Yes but, still my guitar gently weeps  (up)   (up)",
+            500.0
+        ],
+        [
+            "Riff x 1",
+            500.0
+        ],
+        [
+            "Still my guitar gently weeps",
+            500.0
+        ],
+        [
+            "Keeps on ",
+            500.0
+        ],
+        [
+            "Keeps on ",
+            500.0
+        ],
+        [
+            "",
+            500.0
+        ],
+        [
+            "Whoa whoa whoa whoa",
+            500.0
+        ],
+        [
+            "",
+            500.0
+        ],
+        [
+            "Keep on ",
+            500.0
+        ],
+        [
+            "Keep on ",
+            500.0
+        ],
+        [
+            "",
+            500.0
+        ],
+        [
+            "Yeah  yeah  yeah",
+            500.0
+        ]
     ],
     "Every Time I Roll The Dice": [
-        "She's got a ROOF that don't leak",
-        "When the RAIN's pouring down",
-        "She's got a place I can sleep, dog",
-        "Where I'm safe and sound",
-        "She's got a lock on her doohoor",
-        "But she GOT me a key",
-        "She don't WALK the FLO-hor",
-        "OHHHH, but she worries  a-bout me",
-        "Her love has no strings, shackles or chains",
-        "But I'm holding on for dear LIFE",
-        "She's like a rolling seven",
-        "Everytime I roll the dice",
-        "She's got a big OLDSmobile",
-        "She's got a DOG that don't bite",
-        "She's got a HEART I can steal",
-        "Whew!  Just like a thief in the NIGHT",
-        "She's got a SLOW burning fire",
-        "She keeps her radio LOW",
-        "When she gets INSPIIIIIRED",
-        "We let the good times roll",
-        "Her love has no strings, shackles or chains",
-        "But I'm holding on for dear LIFE",
-        "She's like a rolling seven",
-        "Everytime I roll the dice",
-        "",
-        "Her love has no strings, shackles or chains",
-        "But I'm holding on for dear LIFE",
-        "She's like a rolling seven",
-        "Everytime I roll the dice",
-        "Everytime I roll",
-        "Everytime I roll",
-        "Everytime I roll",
-        "Everytime I roll the dice",
-        "Everytime I roll",
-        "Everytime I roll",
-        "Everytime I roll",
-        "Everytime I roll the dice",
-        "Everytime I roll",
-        "Everytime I roll",
-        "Everytime I roll",
-        "Everytime I roll the dice"
+        [
+            "She's got a ROOF that don't leak",
+            500.0
+        ],
+        [
+            "When the RAIN's pouring down",
+            500.0
+        ],
+        [
+            "She's got a place I can sleep, dog",
+            500.0
+        ],
+        [
+            "Where I'm safe and sound",
+            500.0
+        ],
+        [
+            "She's got a lock on her doohoor",
+            500.0
+        ],
+        [
+            "But she GOT me a key",
+            500.0
+        ],
+        [
+            "She don't WALK the FLO-hor",
+            500.0
+        ],
+        [
+            "OHHHH, but she worries  a-bout me",
+            500.0
+        ],
+        [
+            "Her love has no strings, shackles or chains",
+            500.0
+        ],
+        [
+            "But I'm holding on for dear LIFE",
+            500.0
+        ],
+        [
+            "She's like a rolling seven",
+            500.0
+        ],
+        [
+            "Everytime I roll the dice",
+            500.0
+        ],
+        [
+            "She's got a big OLDSmobile",
+            500.0
+        ],
+        [
+            "She's got a DOG that don't bite",
+            500.0
+        ],
+        [
+            "She's got a HEART I can steal",
+            500.0
+        ],
+        [
+            "Whew!  Just like a thief in the NIGHT",
+            500.0
+        ],
+        [
+            "She's got a SLOW burning fire",
+            500.0
+        ],
+        [
+            "She keeps her radio LOW",
+            500.0
+        ],
+        [
+            "When she gets INSPIIIIIRED",
+            500.0
+        ],
+        [
+            "We let the good times roll",
+            500.0
+        ],
+        [
+            "Her love has no strings, shackles or chains",
+            500.0
+        ],
+        [
+            "But I'm holding on for dear LIFE",
+            500.0
+        ],
+        [
+            "She's like a rolling seven",
+            500.0
+        ],
+        [
+            "Everytime I roll the dice",
+            500.0
+        ],
+        [
+            "x 2",
+            500.0
+        ],
+        [
+            "Her love has no strings, shackles or chains",
+            500.0
+        ],
+        [
+            "But I'm holding on for dear LIFE",
+            500.0
+        ],
+        [
+            "She's like a rolling seven",
+            500.0
+        ],
+        [
+            "Everytime I roll the dice",
+            500.0
+        ],
+        [
+            "Everytime I roll",
+            500.0
+        ],
+        [
+            "Everytime I roll",
+            500.0
+        ],
+        [
+            "Everytime I roll",
+            500.0
+        ],
+        [
+            "Everytime I roll the dice",
+            500.0
+        ],
+        [
+            "Everytime I roll",
+            500.0
+        ],
+        [
+            "Everytime I roll",
+            500.0
+        ],
+        [
+            "Everytime I roll",
+            500.0
+        ],
+        [
+            "Everytime I roll the dice",
+            500.0
+        ],
+        [
+            "Everytime I roll",
+            500.0
+        ],
+        [
+            "Everytime I roll",
+            500.0
+        ],
+        [
+            "Everytime I roll",
+            500.0
+        ],
+        [
+            "Everytime I roll the dice",
+            500.0
+        ]
     ],
     "Long Train Runnin'": [
-        "Down around the corner, half a mile from here",
-        "See them long trains run, and you watch them disappear",
-        "Without love, where would you be now?",
-        "Without love",
-        "You know I saw miss Lucy, down along the tracks",
-        "She lost her home and her family and she won't be coming back",
-        "Without love, where would you be right now?",
-        "Without love",
-        "Well the Illinois Central",
-        "And the Southern Central Freight",
-        "Got to keep on pushin' mama",
-        "You know they're running late",
-        "Without love, where would you be now-now-now-now?",
-        "Without love",
-        "",
-        "Well the Illinois Central",
-        "And the Southern Central Freight",
-        "Got to keep on pushin' mama",
-        "You know they're running late",
-        "Without love, where would you be now?",
-        "Without love",
-        "Well the pistons keep on turning",
-        "And the wheels go round and round",
-        "And the steel rails are cold and hard",
-        "For the miles that they go down",
-        "Without love, where would you be right now?",
-        "Without love, oooooooh",
-        "Where would you be now?",
-        "Mmm, got to get you, baby, baby, won't you move it down?",
-        "Won't you move it down?",
-        "Baby, baby, baby, baby, won't you move it down?",
-        "When the big train run",
-        "When the train is movin' on, I got to keep on movin'",
-        "Keep on movin'",
-        "Won't you keep on movin'?",
-        "Gonna keep on movin'"
+        [
+            "Down around the corner, half a mile from here",
+            500.0
+        ],
+        [
+            "See them long trains run, and you watch them disappear",
+            500.0
+        ],
+        [
+            "Without love, where would you be now?",
+            500.0
+        ],
+        [
+            "Without love",
+            500.0
+        ],
+        [
+            "You know I saw miss Lucy, down along the tracks",
+            500.0
+        ],
+        [
+            "She lost her home and her family and she won't be coming back",
+            500.0
+        ],
+        [
+            "Without love, where would you be right now?",
+            500.0
+        ],
+        [
+            "Without love",
+            500.0
+        ],
+        [
+            "Well the Illinois Central",
+            500.0
+        ],
+        [
+            "And the Southern Central Freight",
+            500.0
+        ],
+        [
+            "Got to keep on pushin' mama",
+            500.0
+        ],
+        [
+            "You know they're running late",
+            500.0
+        ],
+        [
+            "Without love, where would you be now-now-now-now?",
+            500.0
+        ],
+        [
+            "Without love",
+            500.0
+        ],
+        [
+            "x 3",
+            500.0
+        ],
+        [
+            "Well the Illinois Central",
+            500.0
+        ],
+        [
+            "And the Southern Central Freight",
+            500.0
+        ],
+        [
+            "Got to keep on pushin' mama",
+            500.0
+        ],
+        [
+            "You know they're running late",
+            500.0
+        ],
+        [
+            "Without love, where would you be now?",
+            500.0
+        ],
+        [
+            "Without love",
+            500.0
+        ],
+        [
+            "Well the pistons keep on turning",
+            500.0
+        ],
+        [
+            "And the wheels go round and round",
+            500.0
+        ],
+        [
+            "And the steel rails are cold and hard",
+            500.0
+        ],
+        [
+            "For the miles that they go down",
+            500.0
+        ],
+        [
+            "Without love, where would you be right now?",
+            500.0
+        ],
+        [
+            "Without love, oooooooh",
+            500.0
+        ],
+        [
+            "Where would you be now?",
+            500.0
+        ],
+        [
+            "Mmm, got to get you, baby, baby, won't you move it down?",
+            500.0
+        ],
+        [
+            "Won't you move it down?",
+            500.0
+        ],
+        [
+            "Baby, baby, baby, baby, won't you move it down?",
+            500.0
+        ],
+        [
+            "When the big train run",
+            500.0
+        ],
+        [
+            "When the train is movin' on, I got to keep on movin'",
+            500.0
+        ],
+        [
+            "Keep on movin'",
+            500.0
+        ],
+        [
+            "Won't you keep on movin'?",
+            500.0
+        ],
+        [
+            "Gonna keep on movin'",
+            500.0
+        ]
     ]
 }
