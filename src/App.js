@@ -1,14 +1,21 @@
 import {useState, useEffect} from "react";
+import { Button, AppBar, Toolbar } from '@material-ui/core';
 import './App.css';
 
 function App() {
 
+  // JSON dictionary object: songs[songTitle] = array of lyrics
   const [songs, setSongs] = useState({});
+  // title of the current song
   const [song, setSong] = useState("Every Day I Have the Blues")
+  // index into songs object of current song
   const [songIndex, setSongIndex] = useState(0);
-  const [songList, setSongList] = useState([])
-  const [seconds, setSeconds] = useState(20);
-  const [isActive, setIsActive] = useState(true);
+  // list of titles of songs
+  const [songTitleList, setSongTitleList] = useState([])
+  // current lyric index of current song
+  const [lyricIndex, setLyricIndex] = useState(0);
+  // boolean to either play lyrics or not
+  const [playLyrics, setPlayLyrics] = useState(false);
 
 
   const getData=()=>{
@@ -32,7 +39,7 @@ function App() {
         for(const key in myJson) {
           tempSongList.push(key);
         }
-        setSongList(tempSongList);
+        setSongTitleList(tempSongList);
         //Store in state
       });
   }
@@ -41,57 +48,73 @@ function App() {
     getData()
   },[])
 
+  const switchSong=(increment)=>{
+    setLyricIndex(0);
+    setPlayLyrics(playLyrics => false);
+    if(songIndex === 0 && increment < 0) {
+      setSongIndex(songIndex => songTitleList.length - 1);
+      setSong(songTitleList.length - 1);
+    }
+    else if(songIndex === songTitleList.length - 1 && increment > 0) {
+      setSongIndex(songIndex => 0);
+      setSong(songTitleList[0]);
+    }
+    else {
+      setSongIndex(songIndex => songIndex + increment);
+      setSong(songTitleList[songIndex + increment]);
+    }
+  };
+
   useEffect(() => {
     let interval = null;
-    if (isActive) {
+    if (playLyrics) {
       interval = setInterval(() => {
-        if (songs[song] && seconds == songs[song].length) {
-          setSeconds(0);
-          setSongIndex(songIndex => songIndex + 1);
-          console.log(songList, songIndex);
-          setSong(songList[songIndex]);
+        if (songs[song] && lyricIndex === songs[song].length) {
+          switchSong(1);
         }
         else {
-          setSeconds(seconds => seconds + 1);
+          setLyricIndex(lyricIndex => lyricIndex + 1);
         }
-      }, 1000);
-    } else if (!isActive && seconds !== 0) {
+      }, 2000);
+    } else if (!playLyrics && lyricIndex !== 0) {
       clearInterval(interval);
     }
     return () => clearInterval(interval);
-  }, [isActive, seconds]);
+  }, [playLyrics, lyricIndex]);
 
-  // for(const song in songs) {
-  //   //console.log(song);
-  //   console.log(songs[song][0]);
-  //   for(const index in songs[song]) {
-  //     lyric = songs[song][index];
-  //     //setLyric(songs[song][index]);
-  //     //setTimeout(function () {}, 50000);
-  //   }
-  // }
 
   let content = null;
-  if (songs && songs["Every Day I Have the Blues"]) {
-  //if(songList.length == 38) {
 
-
-  const naviagtionBar = (
-    <div>
-      <button>test</button>
+  const topBar = (
+    //<div style={{position:'fixed', background:'grey', width:'100%'}}>
+    <div style={{background:'grey', width:'100%'}}>  
+      <AppBar position="fixed">
+        <Toolbar>
+          <div style={{float:'left', width:'800px'}}>
+            <h1>{songTitleList[songIndex]}</h1>
+          </div>
+          <div style={{float:'right', width:'800px'}}>
+            <Button style={{margin: '20px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '150px', maxHeight: '100px', minWidth: '150px', minHeight: '100px'}} color="secondary" onClick={() => {setPlayLyrics(playLyrics => true)}}>Start</Button>
+            <Button style={{margin: '20px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '150px', maxHeight: '100px', minWidth: '150px', minHeight: '100px'}} color="secondary" onClick={() => {setPlayLyrics(playLyrics => false)}}>Stop</Button>
+            <Button style={{margin: '20px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '150px', maxHeight: '100px', minWidth: '150px', minHeight: '100px'}} color="secondary" onClick={() => switchSong(-1)}>Back</Button>
+            <Button style={{margin: '20px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '150px', maxHeight: '100px', minWidth: '150px', minHeight: '100px'}} color="secondary" onClick={() => switchSong(1)}>Forward</Button>
+          </div>
+        </Toolbar>
+      </AppBar>
     </div>
-
   );
 
-
-  content = (
-        <div className="App">
-          <header className="App-header">
-            {naviagtionBar}
-            <h4>{songs[song][seconds]}</h4>
-          </header>
-        </div>
-      );
+  if (songs && songs["Every Day I Have the Blues"]) {
+    content = (
+          <div className="App">
+            <header className="App-header">
+              {topBar}
+              <h3>{songs[song][lyricIndex-1]}</h3>
+              <h1 style={{color: 'yellow'}}>{songs[song][lyricIndex]}</h1>
+              <h3>{songs[song][lyricIndex+1]}</h3>
+            </header>
+          </div>
+    );
   }
 
   return content;
