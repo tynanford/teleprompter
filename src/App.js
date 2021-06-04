@@ -88,7 +88,7 @@ function App() {
           <div style={{float:'left', width:'800px'}}>
             <h1>{song}</h1>
           </div>
-          <div style={{float:'right', width:'1000px'}}>
+          <div style={{float:'right', width:'1100px'}}>
             <Button style={{margin: '15px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '130px', maxHeight: '100px', minWidth: '130px', minHeight: '100px'}} color="secondary" onClick={() => {setPlayLyrics(playLyrics => true)}}>Start</Button>
             <Button style={{margin: '15px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '130px', maxHeight: '100px', minWidth: '130px', minHeight: '100px'}} color="secondary" onClick={() => {setPlayLyrics(playLyrics => false)}}>Stop</Button>
             <Button style={{margin: '15px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '130px', maxHeight: '100px', minWidth: '130px', minHeight: '100px'}} color="secondary" onClick={() => switchSong(-1)}>Back</Button>
@@ -96,6 +96,7 @@ function App() {
             <Button style={{margin: '10px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '80px', maxHeight: '80px', minWidth: '80px', minHeight: '80px'}} color="secondary" onClick={() => {setSpeedAdjustment(speedAdjustment => speedAdjustment + 500)}}>Slow Down</Button>
             <p style={{margin: '5px', fontSize: '20px', display: 'inline'}}>{speedAdjustment == 0 ? '' : speedAdjustment > 0 ? 'Slow ' : 'Speed '}{speedAdjustment > 0 ? speedAdjustment : -1*speedAdjustment}</p>
             <Button style={{margin: '10px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '80px', maxHeight: '80px', minWidth: '80px', minHeight: '80px'}} color="secondary" onClick={() => {setSpeedAdjustment(speedAdjustment => speedAdjustment - 500)}}>Speed Up</Button>
+            <Button style={{margin: '10px', fontSize: '20px', backgroundColor: '#CDCDCD', maxWidth: '80px', maxHeight: '80px', minWidth: '80px', minHeight: '80px'}} color="secondary" onClick={() => {setSpeedAdjustment(speedAdjustment => 0)}}>Reset</Button>
           </div>
         </Toolbar>
       </AppBar>
