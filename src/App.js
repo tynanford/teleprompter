@@ -28,7 +28,6 @@ function App() {
     }).then(function(response){
         return response.json();
     }).then(function(myJson) {
-        console.log(myJson);
         setSongs(myJson);
         const tempSongList = [];
         for(const key in myJson) {
@@ -83,7 +82,7 @@ function App() {
   if (songs && songs["Everyday"]) {
     content = (
       <div className="App">
-        <Header speedAdjustment={speedAdjustment} changeSpeed={setSpeedAdjustment} song={song} switchSong={switchSong} play={setPlayLyrics}/>
+        <Header speedAdjustment={speedAdjustment} changeSpeed={setSpeedAdjustment} song={song} switchSong={switchSong} play={setPlayLyrics} isPlaying={playLyrics}/>
         <Lyrics lyricIndex={lyricIndex} songs={songs} song={song}/>
       </div>
     );

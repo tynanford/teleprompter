@@ -1,4 +1,4 @@
-import { AppBar, Toolbar, Typography, IconButton, Tooltip} from '@material-ui/core';
+import { AppBar, Toolbar, Typography, IconButton, Tooltip } from '@material-ui/core';
 import { PlayCircleFilledWhite, Stop, SkipNext, SkipPrevious, FastForward, FastRewind, Clear } from '@material-ui/icons';
 
 function Header(props) {
@@ -6,7 +6,7 @@ function Header(props) {
         paddingRight: 30,
         paddingLeft: 30,
     }
-    const speedPadding = {
+    const textWidth = {
         width: 120,
     }
 
@@ -19,12 +19,12 @@ function Header(props) {
                 <div style={{display:"flex"}}>
                     <Tooltip title={<h1>Start</h1>} arrow>
                         <IconButton style={largePadding} color="inherit" onClick={() => {props.play(true)}}>
-                            <PlayCircleFilledWhite fontSize="large" />
+                            <PlayCircleFilledWhite fontSize="large" style={{color: props.isPlaying === true ? "#00ff0d" : "inherit"}} />
                         </IconButton>
                     </Tooltip>
                     <Tooltip title={<h1>Stop</h1>} arrow>
                         <IconButton style={largePadding} color="inherit" onClick={() => {props.play(false)}}>
-                            <Stop fontSize="large" />
+                            <Stop fontSize="large" style={{color: props.isPlaying === false ? "#00ff0d" : "inherit"}} />
                         </IconButton>
                     </Tooltip>
                     <Tooltip title={<h1>Back</h1>} arrow>
@@ -39,17 +39,17 @@ function Header(props) {
                     </Tooltip>
                     <Tooltip title={<h1>Slow 500ms</h1>} arrow>
                         <IconButton style={largePadding} color="inherit" onClick={() => {props.changeSpeed(props.speedAdjustment + 500)}}>
-                            <FastRewind fontSize="large" />
+                            <FastRewind fontSize="large" style={{color: props.speedAdjustment > 0 ? "#00ff0d" : "inherit"}} />
                         </IconButton>
                     </Tooltip>
                     <Tooltip title={<h1>Speed Adjustment</h1>} arrow>
-                        <Typography style={speedPadding} color="secondary" variant="h3" align="center">
+                        <Typography style={textWidth} color="secondary" variant="h3" align="center">
                             {-1*props.speedAdjustment}
                         </Typography>
                     </Tooltip>
                     <Tooltip title={<h1>Speed 500ms</h1>} arrow>
                         <IconButton style={largePadding} color="inherit" onClick={() => {props.changeSpeed(props.speedAdjustment - 500)}}>
-                            <FastForward fontSize="large" />
+                            <FastForward fontSize="large" style={{color: props.speedAdjustment < 0 ? "#00ff0d" : "inherit"}} />
                         </IconButton>
                     </Tooltip>
                     <Tooltip title={<h1>Reset Adjustment</h1>} arrow>

@@ -21,10 +21,16 @@
   }
 }
 
+greenText {
+  color: "#00ff0d";
+}
 
+blankText {
+
+}
 
 .App-link {
-  color: #61dafb;
+  color: #61fb69;
 }
 
 @keyframes App-logo-spin {
