@@ -7,6 +7,7 @@
     "@testing-library/jest-dom": "^5.13.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "convert-excel-to-json": "^1.7.0",
     "load-json-file": "^6.2.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -14,9 +15,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "python excel-json/parse.py && react-scripts start",
-    "update": "python excel-json/parse.py",
-    "watch": "watch 'npm run update' ./excel-json", 
+    "start": "node public/parse.js && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -39,7 +38,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "watch": "^1.0.2"
-  }
+  "devDependencies": {}
 }
