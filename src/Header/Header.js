@@ -43,7 +43,7 @@ function Header(props) {
                         </IconButton>
                     </Tooltip>
                     <Tooltip title={<h1>Speed Adjustment</h1>} arrow>
-                        <Typography style={textWidth} color="secondary" variant="h3" align="center">
+                        <Typography style={textWidth} color="inherit" variant="h3" align="center">
                             {-1*props.speedAdjustment}
                         </Typography>
                     </Tooltip>
