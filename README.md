@@ -2,6 +2,8 @@
 
 Using React JS. Displays lyrics from songs in an excel file.
 
+[https://tynanford.github.io/teleprompter/](https://tynanford.github.io/teleprompter/)
+
 ## Available Scripts
 
 ### `npm install`

@@ -2,6 +2,7 @@
   "name": "teleprompter",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tynanford.github.io/teleprompter",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/icons": "^4.11.2",
@@ -18,9 +19,11 @@
   "scripts": {
     "start": "node public/parse.js && react-scripts start",
     "update": "node public/parse.js",
-    "build": "react-scripts build",
+    "build": "node public/parse.js && react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -40,5 +43,7 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "gh-pages": "^3.2.0"
+  }
 }
