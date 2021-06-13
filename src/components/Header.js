@@ -24,7 +24,7 @@ function Header(props) {
                     </Tooltip>
                     <Tooltip title={<h1>Stop</h1>} arrow>
                         <IconButton style={largePadding} color="inherit" onClick={() => {props.play(false)}}>
-                            <Stop fontSize="large" style={{color: props.isPlaying === false ? "#00ff0d" : "inherit"}} />
+                            <Stop fontSize="large" style={{color: props.isPlaying === false ? "red" : "inherit"}} />
                         </IconButton>
                     </Tooltip>
                     <Tooltip title={<h1>Back</h1>} arrow>
@@ -39,7 +39,7 @@ function Header(props) {
                     </Tooltip>
                     <Tooltip title={<h1>Slow 500ms</h1>} arrow>
                         <IconButton style={largePadding} color="inherit" onClick={() => {props.changeSpeed(props.speedAdjustment + 500)}}>
-                            <FastRewind fontSize="large" style={{color: props.speedAdjustment > 0 ? "#00ff0d" : "inherit"}} />
+                            <FastRewind fontSize="large" style={{color: props.speedAdjustment > 0 ? "red" : "inherit"}} />
                         </IconButton>
                     </Tooltip>
                     <Tooltip title={<h1>Speed Adjustment</h1>} arrow>

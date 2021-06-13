@@ -1,7 +1,8 @@
 import {useState, useEffect} from "react";
 import './App.css';
-import Header from './Header/Header';
-import Lyrics from './Lyrics/Lyrics';
+import Header from './components/Header';
+import Lyrics from './components/Lyrics';
+import KeyDown from './components/Keydown';
 
 function App() {
   // JSON dictionary object: songs[songTitle] = array of lyrics
@@ -16,7 +17,6 @@ function App() {
   const [lyricIndex, setLyricIndex] = useState(0);
   // boolean to either play lyrics or not
   const [playLyrics, setPlayLyrics] = useState(false);
-
   const [speedAdjustment, setSpeedAdjustment] = useState(0);
 
   const getData=()=>{
@@ -39,9 +39,9 @@ function App() {
 
   useEffect(()=>{
     getData()
-  },[])
+  },[]);
 
-  const switchSong=(increment)=>{
+  function switchSong(increment){
     setLyricIndex(0);
     setSpeedAdjustment(0);
     setPlayLyrics(playLyrics => false);
@@ -54,10 +54,16 @@ function App() {
       setSong(songTitleList[0]);
     }
     else {
+      console.log('hello');
+      console.log(songTitleList);
+      console.log(songs);
       setSong(songTitleList[songIndex + increment]);
       setSongIndex(songIndex => songIndex + increment);
+      console.log(song);
+      console.log(songIndex);
     }
-  };
+  }
+
 
   useEffect(() => {
     let interval = null;
@@ -75,6 +81,15 @@ function App() {
     }
     return () => clearInterval(interval);
   }, [playLyrics, lyricIndex]);
+
+  
+  //KeyDown("e", () => {switchSong(1)});
+  //KeyDown("e", () => {switchSong(1)});
+  KeyDown("p", () => {setPlayLyrics(true)});
+  KeyDown("s", () => {setPlayLyrics(false)});
+  KeyDown("f", () => {setSpeedAdjustment(speedAdjustment - 500)});
+  KeyDown("r", () => {setSpeedAdjustment(speedAdjustment + 500)});
+
 
 
   let content = null;
