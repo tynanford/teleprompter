@@ -2,7 +2,6 @@ import {useState, useEffect} from "react";
 import './App.css';
 import Header from './components/Header';
 import Lyrics from './components/Lyrics';
-import KeyDown from './components/Keydown';
 
 function App() {
   // JSON dictionary object: songs[songTitle] = array of lyrics
@@ -44,13 +43,13 @@ function App() {
   function switchSong(increment){
     setLyricIndex(0);
     setSpeedAdjustment(0);
-    setPlayLyrics(playLyrics => false);
+    setPlayLyrics(false);
     if(songIndex === 0 && increment < 0) {
-      setSongIndex(songIndex => songTitleList.length - 1);
+      setSongIndex(songTitleList.length - 1);
       setSong(songTitleList[songTitleList.length - 1]);
     }
     else if(songIndex === songTitleList.length - 1 && increment > 0) {
-      setSongIndex(songIndex => 0);
+      setSongIndex(0);
       setSong(songTitleList[0]);
     }
     else {
@@ -63,7 +62,6 @@ function App() {
       console.log(songIndex);
     }
   }
-
 
   useEffect(() => {
     let interval = null;
@@ -82,15 +80,24 @@ function App() {
     return () => clearInterval(interval);
   }, [playLyrics, lyricIndex]);
 
+
+  function KeyDown(key, action) {
+    useEffect(() => {
+        function onKeydown(e) {
+            if (e.key === key) action()
+        }
+        window.addEventListener('keydown', onKeydown);
+        return () => window.removeEventListener('keydown', onKeydown);
+    }, [lyricIndex, speedAdjustment, playLyrics, songs, song, songTitleList, songIndex]);
+  }
   
-  //KeyDown("e", () => {switchSong(1)});
-  //KeyDown("e", () => {switchSong(1)});
-  KeyDown("p", () => {setPlayLyrics(true)});
-  KeyDown("s", () => {setPlayLyrics(false)});
-  KeyDown("f", () => {setSpeedAdjustment(speedAdjustment - 500)});
-  KeyDown("r", () => {setSpeedAdjustment(speedAdjustment + 500)});
-
-
+  KeyDown("p", () => {setPlayLyrics(true)}); // play
+  KeyDown("s", () => {setPlayLyrics(false)}); // stop
+  KeyDown("b", () => {switchSong(1)});  // back one song
+  KeyDown("f", () => {switchSong(-1)}); // forward to next song
+  KeyDown("i", () => {setSpeedAdjustment(speedAdjustment => speedAdjustment - 500)}); // increase speed
+  KeyDown("d", () => {setSpeedAdjustment(speedAdjustment => speedAdjustment + 500)}); // decrease speed
+  KeyDown("r", () => {setSpeedAdjustment(0)}); // reset speed
 
   let content = null;
 

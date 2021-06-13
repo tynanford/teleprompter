@@ -17,6 +17,7 @@
   },
   "scripts": {
     "start": "node public/parse.js && react-scripts start",
+    "update": "node public/parse.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
