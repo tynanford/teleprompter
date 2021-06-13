@@ -14,7 +14,9 @@ function Header(props) {
         <AppBar position="fixed">
             <Toolbar>
                 <div style={{display:"flex", width:"1000px"}}>
-                    <Typography variant="h2">{props.song}</Typography>
+                    <Tooltip title={<h1>Current Song Title</h1>} arrow>
+                        <Typography variant="h2">{props.song}</Typography>
+                    </Tooltip>
                 </div>
                 <div style={{display:"flex"}}>
                     <Tooltip title={<h1>Start</h1>} arrow>
