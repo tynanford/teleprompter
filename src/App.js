@@ -53,13 +53,8 @@ function App() {
       setSong(songTitleList[0]);
     }
     else {
-      console.log('hello');
-      console.log(songTitleList);
-      console.log(songs);
       setSong(songTitleList[songIndex + increment]);
       setSongIndex(songIndex => songIndex + increment);
-      console.log(song);
-      console.log(songIndex);
     }
   }
 
