@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/teleprompter/static/css/main.bca15607.chunk.css",
-    "main.js": "/teleprompter/static/js/main.d68ddf21.chunk.js",
-    "main.js.map": "/teleprompter/static/js/main.d68ddf21.chunk.js.map",
+    "main.js": "/teleprompter/static/js/main.de15bef7.chunk.js",
+    "main.js.map": "/teleprompter/static/js/main.de15bef7.chunk.js.map",
     "runtime-main.js": "/teleprompter/static/js/runtime-main.c2cabfcf.js",
     "runtime-main.js.map": "/teleprompter/static/js/runtime-main.c2cabfcf.js.map",
     "static/js/2.d72a6354.chunk.js": "/teleprompter/static/js/2.d72a6354.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c2cabfcf.js",
     "static/js/2.d72a6354.chunk.js",
     "static/css/main.bca15607.chunk.css",
-    "static/js/main.d68ddf21.chunk.js"
+    "static/js/main.de15bef7.chunk.js"
   ]
 }
