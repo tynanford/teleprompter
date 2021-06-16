@@ -7,7 +7,7 @@ function App() {
   // JSON dictionary object: songs[songTitle] = array of lyrics
   const [songs, setSongs] = useState({}); 
   // title of the current song
-  const [song, setSong] = useState("Everyday")
+  const [song, setSong] = useState("Every Day I Have the Blues")
   // index into songs object of current song
   const [songIndex, setSongIndex] = useState(0);
   // list of titles of songs
@@ -96,7 +96,7 @@ function App() {
 
   let content = null;
 
-  if (songs && songs["Everyday"]) {
+  if (songs && songs["Every Day I Have the Blues"]) {
     content = (
       <div className="App">
         <Header speedAdjustment={speedAdjustment} changeSpeed={setSpeedAdjustment} song={song} switchSong={switchSong} play={setPlayLyrics} isPlaying={playLyrics}/>
