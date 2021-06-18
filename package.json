@@ -17,7 +17,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "node public/parse.js && react-scripts start",
+    "start": "react-scripts start",
     "update": "node public/parse.js",
     "build": "node public/parse.js && react-scripts build",
     "test": "react-scripts test",
