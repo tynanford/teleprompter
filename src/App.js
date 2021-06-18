@@ -96,8 +96,8 @@ function App() {
     }, [lyricIndex, speedAdjustment, playLyrics, songs, song, songTitleList, songIndex]);
   }
   
-  KeyDown("g", () => {setPlayLyrics(true)}); // play
-  KeyDown("a", () => {setPlayLyrics(false)}); // stop
+  KeyDown("a", () => {setPlayLyrics(true)}); // play
+  KeyDown("g", () => {setPlayLyrics(false)}); // stop
   KeyDown("4", () => {switchSong(1)});  // back one song
   KeyDown("+", () => {switchSong(-1)}); // forward to next song
   KeyDown("]", () => {setSpeedAdjustment(speedAdjustment => speedAdjustment - 500)}); // increase speed

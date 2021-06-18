@@ -21,12 +21,12 @@ function Header(props) {
                 <div style={{display:"flex"}}>
                     <Tooltip title={<h1>Start</h1>} arrow>
                         <IconButton style={largePadding} color="inherit" onClick={() => {props.play(true)}}>
-                            <PlayCircleFilledWhite fontSize="large" style={{color: props.isPlaying === true ? "#00ff0d" : "inherit"}} />
+                            <PlayCircleFilledWhite className={props.isPlaying ? "svg_icons" : ""} fontSize="large" style={{color: props.isPlaying === true ? "#00ff0d" : "inherit"}} />
                         </IconButton>
                     </Tooltip>
                     <Tooltip title={<h1>Stop</h1>} arrow>
                         <IconButton style={largePadding} color="inherit" onClick={() => {props.play(false)}}>
-                            <Stop fontSize="large" style={{color: props.isPlaying === false ? "red" : "inherit"}} />
+                            <Stop fontSize="large" className={props.isPlaying ? ""  : "svg_icons"} style={{color: props.isPlaying === false ? "red" : "inherit"}} />
                         </IconButton>
                     </Tooltip>
                     <Tooltip title={<h1>Back</h1>} arrow>

@@ -10,6 +10,10 @@
   color: white;
 }
 
+.svg_icons {
+  transform: scale(2.8);
+}g
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
