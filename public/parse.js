@@ -13,7 +13,7 @@ const result = excelToJson({
     }
 });
 
-fs.writeFile ("./public/songs.json", JSON.stringify(result, null, 2), function(err) {
+fs.writeFile ("./src/songs.json", JSON.stringify(result, null, 2), function(err) {
     if (err) throw err;
     console.log('Excel to JSON parsing complete');
     }

@@ -2,6 +2,7 @@ import {useState, useEffect} from "react";
 import './App.css';
 import Header from './components/Header';
 import Lyrics from './components/Lyrics';
+import SongLyrics from './songs.json';
 
 function App() {
   // JSON dictionary object: songs[songTitle] = array of lyrics
@@ -19,6 +20,14 @@ function App() {
   const [speedAdjustment, setSpeedAdjustment] = useState(0);
 
   const getData=()=>{
+    setSongs(SongLyrics);
+    const tempSongList = [];
+    for(const key in SongLyrics) {
+        tempSongList.push(key);
+    }
+    setSongTitleList(tempSongList);
+
+    /*
     fetch('songs.json', {
       headers : { 
         'Content-Type': 'application/json',
@@ -34,6 +43,7 @@ function App() {
         }
         setSongTitleList(tempSongList);
       });
+      */
   }
 
   useEffect(()=>{
@@ -86,13 +96,13 @@ function App() {
     }, [lyricIndex, speedAdjustment, playLyrics, songs, song, songTitleList, songIndex]);
   }
   
-  KeyDown("p", () => {setPlayLyrics(true)}); // play
-  KeyDown("s", () => {setPlayLyrics(false)}); // stop
-  KeyDown("b", () => {switchSong(1)});  // back one song
-  KeyDown("f", () => {switchSong(-1)}); // forward to next song
+  KeyDown("a", () => {setPlayLyrics(true)}); // play
+  KeyDown("g", () => {setPlayLyrics(false)}); // stop
+  KeyDown("4", () => {switchSong(1)});  // back one song
+  KeyDown("+", () => {switchSong(-1)}); // forward to next song
   KeyDown("i", () => {setSpeedAdjustment(speedAdjustment => speedAdjustment - 500)}); // increase speed
-  KeyDown("d", () => {setSpeedAdjustment(speedAdjustment => speedAdjustment + 500)}); // decrease speed
-  KeyDown("r", () => {setSpeedAdjustment(0)}); // reset speed
+  KeyDown("]", () => {setSpeedAdjustment(speedAdjustment => speedAdjustment + 500)}); // decrease speed
+  KeyDown(".", () => {setSpeedAdjustment(0)}); // reset speed
 
   let content = null;
 
